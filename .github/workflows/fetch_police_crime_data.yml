@@ -26,8 +26,6 @@ jobs:
             -o "data/police-crime-${{ steps.date.outputs.date }}.json"
 
       - name: Commit and push JSON data
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -41,4 +39,3 @@ jobs:
             git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
             git push
           fi
-          
