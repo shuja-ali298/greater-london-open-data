@@ -22,7 +22,6 @@ jobs:
 
       - name: Fetch Police UK crime data
         run: |
-          mkdir -p data
           curl -s "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&Date=${{ steps.date.outputs.date }}" \
             -o "data/police-crime-${{ steps.date.outputs.date }}.json"
 
