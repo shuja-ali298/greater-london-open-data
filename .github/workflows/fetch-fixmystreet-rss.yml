@@ -21,6 +21,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add fixmystreet.xml
-          git commit -m "Update FixMyStreet RSS feed [cron]" || echo "No changes to commit"
-          git push
+          
+          if git diff --quiet HEAD -- data/fixmystreet.xml; then
+            echo "No changes to commit."
+          else
+            echo "Changes detected in data/fixmystreet.xml:"
+            git diff -- data/fixmystreet.xml
+            
+            git add data/fixmystreet.xml
+            git commit -m "chore(data): update FixMyStreet RSS feed"
+            git push
+          fi
