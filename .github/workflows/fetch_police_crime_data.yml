@@ -1,0 +1,44 @@
+name: Fetch Police Crime JSON
+
+on:
+  schedule:
+    - cron: '20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-police-crime-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set current month and year
+        id: date
+        run: echo "date=$(date +'%Y-%m')" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch Police UK crime data
+        run: |
+          curl -s "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&Date=${{ steps.date.outputs.date }}" \
+            -o "data/police-crime-${{ steps.date.outputs.date }}.json"
+
+      - name: Commit and push JSON data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          if git diff --quiet HEAD -- data/; then
+            echo "No changes to commit."
+          else
+            echo "Changes detected in data/:"
+            git diff -- data/
+
+            git add data/
+            git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
+            git push
+          fi
