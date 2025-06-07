@@ -32,7 +32,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-        if git diff --quiet HEAD -- data/police-crime-${{ steps.date.outputs.date }}.json"; then
+          if git diff --quiet HEAD -- data/police-crime-${{ steps.date.outputs.date }}.json"; then
             echo "No changes to commit."
           else
             echo "Changes detected in data/police-crime-${{ steps.date.outputs.date }}.json"
@@ -41,3 +41,4 @@ jobs:
             git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
             git push
           fi
+          
