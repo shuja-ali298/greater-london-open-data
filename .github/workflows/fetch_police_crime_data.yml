@@ -32,12 +32,19 @@ jobs:
 
           file="data/police-crime-${{ steps.date.outputs.date }}.json"
 
-          if git diff --quiet HEAD -- "$file"; then
+          # Show a preview of the file for debugging
+          echo "File content preview:"
+          head -n 5 "$file" || echo "File not found or empty"
+
+          # Stage the file regardless of new or modified
+          git add "$file"
+
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             echo "Changes detected in $file"
-            git diff -- "$file"
-            git add "$file"
+            git diff --cached
             git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
             git push
           fi
