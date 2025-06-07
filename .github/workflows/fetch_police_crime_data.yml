@@ -22,6 +22,7 @@ jobs:
 
       - name: Fetch Police UK crime data
         run: |
+          mkdir -p data
           curl -s "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&Date=${{ steps.date.outputs.date }}" \
             -o "data/police-crime-${{ steps.date.outputs.date }}.json"
 
@@ -30,12 +31,14 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          if git diff --quiet HEAD -- data/police-crime-${{ steps.date.outputs.date }}.json"; then
+          file="data/police-crime-${{ steps.date.outputs.date }}.json"
+
+          if git diff --quiet HEAD -- "$file"; then
             echo "No changes to commit."
           else
-            echo "Changes detected in data/police-crime-${{ steps.date.outputs.date }}.json"
-            git diff -- data/police-crime-${{ steps.date.outputs.date }}.json            
-            git add data/police-crime-${{ steps.date.outputs.date }}.json  
+            echo "Changes detected in $file"
+            git diff -- "$file"
+            git add "$file"
             git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
             git push
           fi
