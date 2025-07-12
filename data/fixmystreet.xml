@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -12,6 +12,15 @@
 <description>The latest local problems reported by users</description>
 <language>en-gb</language>
 
+<item>
+<title>Noisy alarm in the bin, 12th July</title>
+<link>https://www.fixmystreet.com/report/7864906</link>
+<description>Someone dumped an alarm in the bin that is going on the whole night&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Frampton Park Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7864906&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7864906</guid>
+<pubDate>Sat, 12 Jul 2025 03:56:09 +0100</pubDate>
+<georss:point>51.541627 -0.053115</georss:point>
+</item>
 <item>
 <title>Nw1 1tt, 12th July</title>
 <link>https://www.fixmystreet.com/report/7864889</link>
@@ -182,15 +191,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/7864719</guid>
 <pubDate>Fri, 11 Jul 2025 22:41:23 +0100</pubDate>
 <georss:point>51.539791 -0.197152</georss:point>
-</item>
-<item>
-<title>14 Glengall Road, 11th July</title>
-<link>https://www.fixmystreet.com/report/7864717</link>
-<description>Flytipping&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7864717.0.jpeg?80203db4&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Glengall Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7864717&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Blue bags left on street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/7864717</guid>
-<pubDate>Fri, 11 Jul 2025 22:40:08 +0100</pubDate>
-<georss:point>51.539847 -0.196863</georss:point>
 </item>
 </channel>
 </rss>
