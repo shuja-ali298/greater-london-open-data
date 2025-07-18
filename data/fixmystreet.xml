@@ -1,144 +1,196 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Hmm… that's not working right now</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
-    <style>
-      :root {
-        --primary-color: #1475B8;
-        --white-color: #fff;
-        --yellow-color: #ffd836;
-        --links-border-radius: 0.1875rem;
-      }
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
-      html {
-        -ms-text-size-adjust: 100%;
-        -webkit-text-size-adjust: 100%;
-      }
+<rss version="2.0"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
 
-      body {
-        margin: 0 auto;
-        padding: 0 1em 4em 1em;
-        max-width: 28em;
-        font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
-        color: var(--white-color);
-        background-color: var(--primary-color);
-      }
+<channel>
+<title>New local problems on FixMyStreet</title>
+<link>https://www.fixmystreet.com/?lat=51.55761;lon=0.073477;d=20</link><uri>https://www.fixmystreet.com/rss/l/51.55761,0.073477/20</uri>
+<description>The latest local problems reported by users</description>
+<language>en-gb</language>
 
-      .logo {
-        display: inline-block;
-        padding: 0.875rem 1rem;
-        background-color: var(--white-color);
-        border-bottom-left-radius: var(--links-border-radius);
-        border-bottom-right-radius: var(--links-border-radius);
-        transition: background-color 0.3s ease;
-      }
-      .logo:hover {
-        background-color: rgba(255,255,255, 0.8);
-      }
-      .logo:focus {
-        background-color: var(--yellow-color);
-      }
-
-      img {
-        border: none;
-      }
-
-      h1 {
-        font-size: 3em;
-        line-height: 1em;
-        margin: 1em 0 0.5em 0;
-        font-weight: 600;
-      }
-
-      p {
-        font-size: 1.3125rem;
-        line-height: 1.4em;
-        margin: 1em 0 0 0;
-      }
-
-      .social {
-        font-size: 1.125rem;
-        padding: 0;
-        margin: 2em -1em 0 -1em;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 1rem;
-      }
-
-      .social li {
-        list-style: none;
-        margin: 0 1em 0.5em 1em;
-      }
-
-      .social a {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-        gap: 0.25rem;
-        color: var(--white-color);
-        opacity: 0.9;
-        text-decoration: none;
-        padding: 1rem;
-        margin: 0 -1rem;
-        transition: color 0.3s ease, background-color 0.3s ease;
-        border-radius: var(--links-border-radius);
-      }
-
-      .social a:hover {
-        color: var(--primary-color);
-        background: var(--white-color);
-      }
-
-      .social a:focus {
-        color: #333;
-        background: var(--yellow-color);
-      }
-
-      .social img {
-        vertical-align: -0.33em;
-        margin-right: 0.3em;
-      }
-
-      @media(min-width: 24em){
-        h1 {
-          font-size: 4em;
-        }
-        .social {
-          margin-top: 3em;
-        }
-        .social li {
-          display: inline;
-          margin-bottom: 0;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <a href="https://www.mysociety.org" class="logo">
-      <svg width="200" height="45" viewBox="0 0 350 74" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.313158 27.7801C0.313158 23.31 0.234868 19.5591 0 16.2037H8.3125L8.70395 21.9549H8.93882C10.8224 18.9209 14.2717 15.3272 20.7053 15.3272C25.725 15.3272 29.6395 18.204 31.2882 22.5122H31.4447C32.7803 20.3546 34.3461 18.7567 36.149 17.6421C38.2674 16.1228 40.6944 15.3249 43.8329 15.3249C50.1836 15.3249 56.6125 19.7141 56.6125 32.1692V55.0768H47.2039V33.6052C47.2039 27.1372 45.0118 23.3077 40.3813 23.3077C37.0885 23.3077 34.6592 25.7011 33.6414 28.4946C33.4043 29.452 33.1717 30.6499 33.1717 31.7668V55.0768H23.7586V32.5669C23.7586 27.1372 21.6401 23.3054 17.173 23.3054C13.5671 23.3054 11.1355 26.1775 10.272 28.8901C9.88059 29.8498 9.72632 30.9667 9.72632 32.0859V55.0722H0.313158V27.7801ZM71.5888 16.2037L78.4875 37.0393C79.2704 39.4351 80.0602 42.3904 80.6059 44.6243H80.8431C81.4648 42.3904 82.174 39.5137 82.8786 36.963L88.8378 16.206H99.1905L89.623 42.7073C84.3684 57.2367 80.8408 63.6978 76.2908 67.6915C72.526 71.1256 68.6046 72.4044 66.173 72.7258L63.9786 64.4147C65.625 64.0169 67.6628 63.1428 69.6247 61.7044C71.4276 60.5089 73.5437 58.1894 74.8747 55.5578C75.2661 54.834 75.5033 54.2813 75.5033 53.8003C75.5033 53.4002 75.425 52.8429 74.9507 51.8856L60.9967 16.2037H71.5796H71.5888ZM104.913 44.3815C108.049 46.2176 112.753 47.8156 117.692 47.8156C123.886 47.8156 127.34 44.8625 127.34 40.4757C127.34 36.4011 124.669 34.0053 117.929 31.5309C109.225 28.3397 103.653 23.6291 103.653 15.8846C103.653 7.10169 110.872 0.39775 122.32 0.39775C128.045 0.39775 132.279 1.67425 135.024 3.11031L132.668 11.0121C130.785 9.97613 127.101 8.45681 122.162 8.45681C116.043 8.45681 113.377 11.8099 113.377 14.9249C113.377 19.0758 116.435 20.9906 123.492 23.7864C132.666 27.3014 137.136 32.0096 137.136 39.7519C137.136 48.3775 130.704 55.9579 117.063 55.9579C111.496 55.9579 105.695 54.2836 102.792 52.5284L104.91 44.3815H104.913ZM218.209 53.8812C216.176 54.8363 212.176 55.9556 207.391 55.9556C195.473 55.9556 187.708 48.1324 187.708 36.0796C187.708 24.4246 195.546 15.3249 208.962 15.3249C212.489 15.3249 216.093 16.1251 218.287 17.1634L216.567 24.5056C215.001 23.7887 212.722 22.9886 209.275 22.9886C201.906 22.9886 197.508 28.4992 197.591 35.6032C197.591 43.586 202.687 48.137 209.275 48.137C212.643 48.137 215.001 47.4155 216.88 46.6177L218.204 53.8859L218.209 53.8812ZM225.349 16.2037H235.071V55.0768H225.349V16.2037ZM235.619 5.34881C235.619 8.30187 233.501 10.6213 230.132 10.6213C226.915 10.6213 224.797 8.30187 224.797 5.34881C224.797 2.3125 226.993 0 230.208 0C233.501 0 235.543 2.3125 235.619 5.34881ZM252.239 38.3968C252.477 45.4221 257.888 48.4561 264.006 48.4561C268.473 48.4561 271.688 47.8156 274.591 46.694L276.003 53.4835C272.705 54.8386 268.162 55.9579 262.67 55.9579C250.282 55.9579 242.992 48.1324 242.992 36.2415C242.992 25.4653 249.421 15.3249 261.653 15.3249C274.121 15.3249 278.121 25.7034 278.121 34.2481C278.121 36.0819 277.967 37.5203 277.81 38.3968H252.244H252.239ZM269.026 31.5332C269.104 27.9396 267.534 22.0335 261.105 22.0335C255.141 22.0335 252.631 27.5372 252.239 31.5332H269.026V31.5332ZM296.934 6.22525V16.2037H306.112V23.5505H296.934V40.7093C296.934 45.4221 298.188 47.9011 301.873 47.9011C303.676 47.9011 304.535 47.7392 305.637 47.4155L305.794 54.9242C304.38 55.4792 301.87 55.9648 298.817 55.9648C295.285 55.9648 292.305 54.6837 290.505 52.6903C288.464 50.4564 287.525 46.9391 287.525 41.8331V23.5505H282.033V16.206H287.523V9.02337L296.927 6.22525H296.934ZM319.985 16.2037L326.893 37.0393C327.676 39.4351 328.454 42.3904 329.007 44.6243H329.237C329.87 42.3904 330.577 39.5137 331.277 36.963L337.237 16.206H347.585L338.019 42.7073C332.765 57.2367 329.239 63.7048 324.687 67.6961C320.925 71.1302 317.001 72.4044 314.579 72.7258L312.377 64.4193C314.024 64.0216 316.066 63.1405 318.023 61.7044C319.826 60.5089 321.945 58.1894 323.278 55.5624C323.674 54.8386 323.907 54.2813 323.907 53.8049C323.907 53.4049 323.824 52.8429 323.354 51.8856L309.4 16.2037H319.983" fill="#333333"/><path fill-rule="evenodd" clip-rule="evenodd" d="M161.599 13.7314C164.311 13.7314 166.513 15.9699 166.513 18.7334C166.513 21.4968 164.311 23.7376 161.596 23.7376C158.879 23.7376 156.683 21.4945 156.683 18.7357C156.683 15.9746 158.882 13.7361 161.594 13.7361" fill="#ED1C24"/><path fill-rule="evenodd" clip-rule="evenodd" d="M161.599 47.145C164.311 47.145 166.513 49.3881 166.513 52.1492C166.513 54.9127 164.311 57.1535 161.596 57.1535C158.879 57.1535 156.683 54.9103 156.683 52.1515C156.683 49.3927 158.882 47.1496 161.594 47.1496" fill="#29ABE2"/><path fill-rule="evenodd" clip-rule="evenodd" d="M173.335 18.7613C176.046 18.7613 178.249 20.9998 178.249 23.7609C178.249 26.5244 176.048 28.7629 173.338 28.7629C170.621 28.7629 168.424 26.5244 168.424 23.7609C168.424 20.9998 170.625 18.7613 173.338 18.7613" fill="#F8931E"/><path fill-rule="evenodd" clip-rule="evenodd" d="M153.291 50.697C151.352 52.6163 148.239 52.5863 146.344 50.6137C144.446 48.6365 144.485 45.4707 146.427 43.5421C148.368 41.6065 151.476 41.6458 153.374 43.6184C155.269 45.591 155.234 48.7522 153.293 50.6947" fill="#662D91"/><path fill-rule="evenodd" clip-rule="evenodd" d="M178.007 30.2984C180.717 30.2984 182.921 32.5369 182.921 35.3003C182.921 38.0568 180.717 40.2953 178.007 40.2953C175.297 40.2953 173.098 38.0592 173.098 35.3003C173.098 32.5369 175.297 30.2984 178.007 30.2984Z" fill="#FCEE21"/><path fill-rule="evenodd" clip-rule="evenodd" d="M145.188 30.5782C147.905 30.5782 150.102 32.8213 150.102 35.5801C150.102 38.3436 147.903 40.5844 145.188 40.5844C142.471 40.5844 140.274 38.3412 140.274 35.5801C140.274 32.819 142.471 30.5782 145.186 30.5782" fill="#93278F"/><path fill-rule="evenodd" clip-rule="evenodd" d="M169.727 50.7917C167.811 48.8331 167.811 45.6719 169.727 43.7155C171.647 41.7661 174.758 41.7661 176.676 43.7155C178.594 45.6719 178.594 48.8331 176.676 50.7917C174.756 52.7412 171.647 52.7412 169.729 50.7917" fill="#8CC63F"/></svg>
-    </a>
-    <h1>Hmm… that's not working right now</h1>
-    <p>Check back in a few minutes, and hopefully everything should be back in order.</p>
-    <p>Thanks for your patience.</p>
-    <ul class="social">
-      <li>
-        <a href="https://bsky.app/profile/mysociety.org" aria-label="Visit mySociety on Bluesky">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24ZM6.84796 7.08813C8.88335 8.52435 11.0723 11.4385 11.8765 13.0017C12.6798 11.4394 14.8697 8.52524 16.905 7.08636C18.8552 5.7105 19.5982 5.94928 20.0855 6.16941C20.65 6.42506 20.753 7.29052 20.753 7.80091C20.753 8.31043 20.4734 11.9809 20.2914 12.5933C19.6887 14.6172 17.545 15.3007 15.57 15.0814C18.4638 15.5102 20.753 17.1301 17.5965 20.3168C13.7279 23.6953 12.7323 20.1588 12.0488 17.7311C11.9896 17.5207 11.9327 17.3186 11.8765 17.1301L11.8696 17.1532C11.1628 19.5241 9.78558 24.1434 6.08902 20.3168C2.71862 16.5638 5.29014 15.5102 8.18388 15.0814C6.20797 15.3007 4.06518 14.6172 3.46158 12.5933C3.27961 11.98 3 8.31043 3 7.80003C3 7.2914 3.10297 6.42417 3.66751 6.17119C4.15483 5.94928 4.8978 5.71227 6.84796 7.08813Z" fill="currentColor"/></svg>
-          @mysociety.org
-        </a>
-      </li>
-      <li>
-        <a href="https://facebook.com/mysociety" aria-label="Visit mySociety on Facebook">
-          <svg width="24" height="24" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="presentation"><path d="M20 10.0251C20 4.49123 15.52 0 10 0C4.48 0 0 4.49123 0 10.0251C0 14.8772 3.44 18.9173 8 19.8496V13.0326H6V10.0251H8V7.5188C8 5.58396 9.57 4.01003 11.5 4.01003H14V7.01754H12C11.45 7.01754 11 7.46867 11 8.02005V10.0251H14V13.0326H11V20C16.05 19.4987 20 15.2281 20 10.0251Z" fill="currentColor"/></svg>
-          /mysociety
-        </a>
-      </li>
-    </ul>
-  </body>
-</html>
+<item>
+<title>108 lower rd Graffiti sprayed, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895753</link>
+<description>108 lower rd Graffiti sprayed across shop shutter..now an eye sore to the public-possibly racist comment 🤔. Requires urgent investigation and perpetrators held responsible.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lower Road, Lower Belvedere, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895753&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895753</guid>
+<pubDate>Fri, 18 Jul 2025 05:19:26 +0100</pubDate>
+<georss:point>51.490187 0.161727</georss:point>
+</item>
+<item>
+<title>O/s Sams barber shop Rubbish strewn across pavement, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895751</link>
+<description>Rubbish strewn across pavement after been ripped apart by vermin,now making it impassable without stepping into food waste etc.. Requires immediate cleaning as also directly on school route.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lower Road, Lower Belvedere, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895751&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavement</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895751</guid>
+<pubDate>Fri, 18 Jul 2025 05:15:38 +0100</pubDate>
+<georss:point>51.490187 0.161727</georss:point>
+</item>
+<item>
+<title>P10 obscured by foliage. required borough to cut, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895744</link>
+<description>P10 obscured by foliage. required borough to cut&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895744&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895744</guid>
+<pubDate>Fri, 18 Jul 2025 04:46:33 +0100</pubDate>
+<georss:point>51.544738 0.004468</georss:point>
+</item>
+<item>
+<title>32 brondesbury villas, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895742</link>
+<description>Overhanging tree blocking the pavement for us pedestrians&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895742.0.jpeg?a4e29d02&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brondesbury Villas, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895742&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Private Land - Overgrown / Overhanging tree</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895742</guid>
+<pubDate>Fri, 18 Jul 2025 04:39:55 +0100</pubDate>
+<georss:point>51.536809 -0.196133</georss:point>
+</item>
+<item>
+<title>Illegal A-board sign at Moonshine, 85 Kingsland High Street E8, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895710</link>
+<description>An A-board, hazardous for blind and visually impaired pedestrians, is being placed, illegally, on the footway outside Moonshine at 85 Kingsland High Street, E8 2PB. Please deal with this without delay. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895710.0.jpeg?a4f5c9cf&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingsland High Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895710&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Highways Obstructions</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895710</guid>
+<pubDate>Fri, 18 Jul 2025 01:00:12 +0100</pubDate>
+<georss:point>51.549466 -0.075573</georss:point>
+</item>
+<item>
+<title>Fly-tipped landscaping waste - rear 61 Chorleywood, 18th July</title>
+<link>https://www.fixmystreet.com/report/7895679</link>
+<description>Landscaping waste has been dumped in the woodland to the rear of 61 Chorleywood Crescent.&amp;#10;&amp;#10;Please could this be removed?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895679.0.jpeg?5061251a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Chorleywood Crescent, St Paul&#39;s Cray, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895679&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip in Park</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895679</guid>
+<pubDate>Fri, 18 Jul 2025 00:04:04 +0100</pubDate>
+<georss:point>51.403904 0.096365</georss:point>
+</item>
+<item>
+<title>Tree damaged - Chorleywood, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895669</link>
+<description>Young tree outside 60 Chorleywood Crescent has been damaged.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895669.0.jpeg?469aa057&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 52, Chorleywood Crescent, St Paul&#39;s Cray, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895669&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree Vandalised</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895669</guid>
+<pubDate>Thu, 17 Jul 2025 23:58:43 +0100</pubDate>
+<georss:point>51.404218 0.097431</georss:point>
+</item>
+<item>
+<title>Fly-tipped waste - cul-de-sac of Ravenscourt Road, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895662</link>
+<description>A door and pallet have been left in the cul-de-sac of Ravenscourt Road.&amp;#10;&amp;#10;Please could these be removed?&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 262-276, Chipperfield Road, St Paul&#39;s Cray, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895662&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895662</guid>
+<pubDate>Thu, 17 Jul 2025 23:53:32 +0100</pubDate>
+<georss:point>51.400118 0.103181</georss:point>
+</item>
+<item>
+<title>Multiple bags of hedge cuttings, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895655</link>
+<description>Been there over a week outside 15 bushwood drive.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Burnell Walk, Old Kent Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895655&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - Green Waste (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895655</guid>
+<pubDate>Thu, 17 Jul 2025 23:49:02 +0100</pubDate>
+<georss:point>51.489273 -0.071681</georss:point>
+</item>
+<item>
+<title>Street light ID PV200 not working, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895654</link>
+<description>This Street light has not been working since 16th May 2025 and has been reported twice via fix my street ref: 7580904 and ref:7641198&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895654.0.jpeg?67858b25&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Maran Way, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895654&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Streetlight not working</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895654</guid>
+<pubDate>Thu, 17 Jul 2025 23:49:50 +0100</pubDate>
+<georss:point>51.495241 0.129637</georss:point>
+</item>
+<item>
+<title>Flashing street light at the end of the Palace of Westminster vehicle barrier., 17th July</title>
+<link>https://www.fixmystreet.com/report/7895653</link>
+<description>The light is constantly flashing affect Police and security at the Palace of Westminster overnight.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): The Royal Porch, Millbank, City of Westminster&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895653&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street lights</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895653</guid>
+<pubDate>Thu, 17 Jul 2025 23:48:32 +0100</pubDate>
+<georss:point>51.497857 -0.125582</georss:point>
+</item>
+<item>
+<title>Mattress been dumped on verge, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895652</link>
+<description>Old mattress dumped on verge at bottom of cadet drive&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Burnell Walk, Old Kent Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895652&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - Other (Unidentified) (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895652</guid>
+<pubDate>Thu, 17 Jul 2025 23:47:54 +0100</pubDate>
+<georss:point>51.489273 -0.071681</georss:point>
+</item>
+<item>
+<title>Its close to the painted bridge that leads to sainsburys, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895651</link>
+<description>Lamp 10 is not working&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 124, Abbey Road, South Hampstead, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895651&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street Lights</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895651</guid>
+<pubDate>Thu, 17 Jul 2025 23:48:18 +0100</pubDate>
+<georss:point>51.540261 -0.188036</georss:point>
+</item>
+<item>
+<title>Great big caravan with no registration number, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895644</link>
+<description>Have been parked o/s 76 Crawford Gdns N13 for months&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895644.0.jpeg?0b476ba9&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Crawford Gardens, Bowes, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895644&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895644</guid>
+<pubDate>Thu, 17 Jul 2025 23:41:43 +0100</pubDate>
+<georss:point>51.623153 -0.097111</georss:point>
+</item>
+<item>
+<title>Some guy with mental health issues fly tipping outside our buildint, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895628</link>
+<description>The guy is mentally not there- he leaves random unsanitary food like chicken breasts and ice cream for someone that picks it up (from our building). Sometimes dogs pee on it. It looks awful. On confrontation he does nothing&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/7895628.0.jpeg?7f37c423&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Queensbridge Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895628&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Drug Paraphernalia / Needles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895628</guid>
+<pubDate>Thu, 17 Jul 2025 23:26:54 +0100</pubDate>
+<georss:point>51.53505 -0.069655</georss:point>
+</item>
+<item>
+<title>Car park lights, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895607</link>
+<description>Light are not working at Roman Square WF177 WF176 WF178 WF179&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Roman Square, Thamesmead, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895607&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street lighting</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895607</guid>
+<pubDate>Thu, 17 Jul 2025 23:15:26 +0100</pubDate>
+<georss:point>51.501805 0.107086</georss:point>
+</item>
+<item>
+<title>Fly Tipping again!, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895606</link>
+<description>Another truck load of rubbish dumped outside these bins again. Needs to be removed again. This is just an ongoing problem. You need CCTV, catch these illegal fly tippers and fine them, money would be welcomed by Southwark Council.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Credon Road, Bermondsey, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895606&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895606</guid>
+<pubDate>Thu, 17 Jul 2025 23:14:39 +0100</pubDate>
+<georss:point>51.487166 -0.058475</georss:point>
+</item>
+<item>
+<title>Oakfield Road SE20 8QA outside number 17 (Oak, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895602</link>
+<description>Oakfield Road SE20 8QA outside number 17 (Oaks Park Medical Centre) there is a Keep Right board (fluorescent yellow with blue disc with white arrow inside disc) which has been graffiti tagged – certainly on rear.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Oakfield Road, Anerley, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895602&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895602</guid>
+<pubDate>Thu, 17 Jul 2025 23:13:26 +0100</pubDate>
+<georss:point>51.413106 -0.063103</georss:point>
+</item>
+<item>
+<title>Decomposing animal, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895601</link>
+<description>A dead fox was reported around 15.20 and has not yet been collected. It is currently decomposing on the pavement and surrounded by flies. It is unusually hot out and this is attracting vermin and is a main high street/pavement with heavy foot fall from pedestrains, children and other dogs. Please can it be removed as a matter of urgency.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cooper Close, Elephant and Castle, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895601&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Clinical Waste - Dead Animal (Estates)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895601</guid>
+<pubDate>Thu, 17 Jul 2025 23:13:01 +0100</pubDate>
+<georss:point>51.500147 -0.107937</georss:point>
+</item>
+<item>
+<title>Bench attracting noise and litter, 17th July</title>
+<link>https://www.fixmystreet.com/report/7895596</link>
+<description>Newly installed bench is attracting anti social behaviour and littering of alcohol bottles. Almost every night people sit there in groups or alone or on twos drunk and talking loudly. It’s becoming a spot to congregate. Please remove this bench.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Queensbridge Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/7895596&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/7895596</guid>
+<pubDate>Thu, 17 Jul 2025 23:11:40 +0100</pubDate>
+<georss:point>51.535333 -0.070226</georss:point>
+</item>
+</channel>
+</rss>
