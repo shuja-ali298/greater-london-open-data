@@ -25,6 +25,58 @@ jobs:
           curl -s "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&Date=${{ steps.date.outputs.date }}" \
             -o "data/police-crime-${{ steps.date.outputs.date }}.json"
 
+      name: Fetch Police Crime JSON
+
+on:
+  schedule:
+    - cron: '20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-police-crime-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set current month and year
+        id: date
+        run: echo "date=$(date +'%Y-%m')" >> "$GITHUB_OUTPUT"
+
+      - name: Fetch Police UK crime data
+        run: |
+          curl -s "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&Date=${{ steps.date.outputs.date }}" \
+            -o "data/police-crime-${{ steps.date.outputs.date }}.json"
+
+      - name: Commit and push JSON data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          file="data/police-crime-${{ steps.date.outputs.date }}.json"
+
+          # Show a preview of the file for debugging
+          echo "File content preview:"
+          head -n 5 "$file" || echo "File not found or empty"
+
+          # Stage the file regardless of new or modified
+          git add "$file"
+
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            echo "Changes detected in $file"
+            git diff --cached
+            git commit -m "chore(data): add police crime data for ${{ steps.date.outputs.date }}"
+            git push
+          fi
+        } > "$summary"
+        
       - name: Commit and push JSON data
         run: |
           git config --global user.name 'github-actions[bot]'
