@@ -2,7 +2,7 @@ name: Fetch Police Crime JSON
 
 on:
   schedule:
-    - cron: '20 * * * *'   # runs at :20 past every hour (UTC)
+    - cron: '20 * * * *'   # UTC
   workflow_dispatch:
 
 permissions:
@@ -22,42 +22,52 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Set current month and year
-        id: date
-        run: echo "date=$(date +'%Y-%m')" >> "$GITHUB_OUTPUT"
+      # Resolve the newest month the API has actually published
+      - name: Resolve latest available month
+        id: latest
+        run: |
+          set -euo pipefail
+          latest=$(curl -s --fail https://data.police.uk/api/crimes-street-dates | jq -r '.[0].date')
+          echo "date=$latest" >> "$GITHUB_OUTPUT"
+          echo "Latest published month: $latest"
 
       - name: Fetch Police UK crime data
         run: |
           set -euo pipefail
-          file="data/police-crime-${{ steps.date.outputs.date }}.json"
-          curl --fail --location --retry 5 --retry-delay 5 -s \
-            "https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&date=${{ steps.date.outputs.date }}" \
-            -o "$file"
+          date="${{ steps.latest.outputs.date }}"
+          file="data/police-crime-${date}.json"
+          url="https://data.police.uk/api/crimes-street/all-crime?lat=51.55761&lng=0.073477&date=${date}"
 
-          # Validate JSON (non-empty + valid)
+          echo "GET $url"
+          http_code=$(curl -w "%{http_code}" --fail --location --retry 5 --retry-delay 5 -s "$url" -o "$file")
+          echo "HTTP $http_code"
+
+          # Validate JSON (non-empty and an array)
           test -s "$file"
           jq . "$file" > /dev/null
+          jq -e 'type == "array"' "$file" > /dev/null
 
-          # Show a small preview for debugging
-          echo "File content preview:"
-          head -n 5 "$file" || echo "File not found or empty"
+          echo "Preview:"
+          head -n 5 "$file" || true
 
       - name: Generate summary.md
         run: |
           set -euo pipefail
-          file="data/police-crime-${{ steps.date.outputs.date }}.json"
+          date="${{ steps.latest.outputs.date }}"
+          file="data/police-crime-${date}.json"
           summary="summary.md"
 
-          # Count total crimes (handles empty array)
           total=$(jq 'length' "$file")
-
-          # Top 5 categories (handles empty array safely)
-          top=$(jq -r '.[].category // empty' "$file" | sort | uniq -c | sort -nr | head -5)
+          if [ "$total" -eq 0 ]; then
+            top=""
+          else
+            top=$(jq -r '.[].category // empty' "$file" | sort | uniq -c | sort -nr | head -5)
+          fi
 
           {
             echo "# Crime Data Summary"
             echo
-            echo "**Date:** ${{ steps.date.outputs.date }}"
+            echo "**Date:** ${date}"
             echo
             echo "- Total crimes: $total"
             echo
@@ -71,17 +81,24 @@ jobs:
             fi
           } > "$summary"
 
+      - name: Upload summary artifact (for easy viewing)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: summary-${{ steps.latest.outputs.date }}
+          path: summary.md
+
       - name: Commit and push JSON data + summary
         run: |
+          set -euo pipefail
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          git add "data/police-crime-${{ steps.date.outputs.date }}.json" summary.md
-
+          git add "data/police-crime-${{ steps.latest.outputs.date }}.json" summary.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            echo "Changes detected; committing."
-            git commit -m "chore(data): add police crime data & summary for ${{ steps.date.outputs.date }}"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git commit -m "chore(data): add police crime data & summary for ${{ steps.latest.outputs.date }}"
             git push
           fi
