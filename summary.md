@@ -1,14 +1,14 @@
 # Crime Data Summary
 
-**Date:** 2025-08
+**Date:** 2025-09
 
-- Total crimes: 1016
+- Total crimes: 995
 
 ## Top 5 categories
 ```
-    282 violent-crime
-    256 anti-social-behaviour
-     78 public-order
-     74 vehicle-crime
-     70 other-theft
+    291 violent-crime
+    192 anti-social-behaviour
+     86 vehicle-crime
+     81 other-theft
+     65 theft-from-the-person
 ```
