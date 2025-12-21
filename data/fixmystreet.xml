@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,51 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Fly tipping and overflowing bins, 21st December</title>
+<link>https://www.fixmystreet.com/report/8578585</link>
+<description>Persistent fly-tipping and overflowing bins in this area continue to create a mess. This issue has been reported several times and has not been resolved. Action is required as a matter of urgency.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578585.0.jpeg?8b02c6e8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Amhurst Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578585&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8578585</guid>
+<pubDate>Sun, 21 Dec 2025 23:10:32 +0000</pubDate>
+<georss:point>51.55009 -0.063396</georss:point>
+</item>
+<item>
+<title>Several dumps of fly tipping today, 21st December</title>
+<link>https://www.fixmystreet.com/report/8578562</link>
+<description>A blue Chrysler Voyager dumped several loads of flipping along the edge of the park today (Sunday December 21st)&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578562.0.jpeg?528d3c38&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Queensdown Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578562&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8578562</guid>
+<pubDate>Sun, 21 Dec 2025 22:57:49 +0000</pubDate>
+<georss:point>51.554485 -0.058286</georss:point>
+</item>
+<item>
+<title>Streetlight not working, 21st December</title>
+<link>https://www.fixmystreet.com/report/8578559</link>
+<description>Lamp not working - second in on the right as you enter street&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Camelot Close, Thamesmead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578559&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street lighting</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8578559</guid>
+<pubDate>Sun, 21 Dec 2025 22:56:35 +0000</pubDate>
+<georss:point>51.495357 0.081417</georss:point>
+</item>
+<item>
+<title>Fly tipping behind sub station, 21st December</title>
+<link>https://www.fixmystreet.com/report/8578556</link>
+<description>Fly tipping behind the substation&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Camelot Close, Thamesmead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578556&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8578556</guid>
+<pubDate>Sun, 21 Dec 2025 22:55:25 +0000</pubDate>
+<georss:point>51.495385 0.081125</georss:point>
+</item>
+<item>
+<title>Cannisters left outside my house on pavement, 21st December</title>
+<link>https://www.fixmystreet.com/report/8578552</link>
+<description>Please remove the cannisters left outside my house, they litter picking person is leaving it or hasn&amp;#39;t come. the rubbish collection people refused to take it.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578552.0.jpeg?3024399d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Reighton Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578552&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Drug Paraphernalia / Needles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8578552</guid>
+<pubDate>Sun, 21 Dec 2025 22:53:49 +0000</pubDate>
+<georss:point>51.562014 -0.06073</georss:point>
+</item>
 <item>
 <title>All of our bins are full/overflowing, 21st December</title>
 <link>https://www.fixmystreet.com/report/8578496</link>
@@ -148,51 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8578331</guid>
 <pubDate>Sun, 21 Dec 2025 21:13:55 +0000</pubDate>
 <georss:point>51.466169 -0.120419</georss:point>
-</item>
-<item>
-<title>Metal rack, 21st December</title>
-<link>https://www.fixmystreet.com/report/8578327</link>
-<description>Metal rack&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578327.0.jpeg?86b368a4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Burgoyne Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578327&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8578327</guid>
-<pubDate>Sun, 21 Dec 2025 21:06:51 +0000</pubDate>
-<georss:point>51.466472 -0.119135</georss:point>
-</item>
-<item>
-<title>Please can recycling Bins be emptied, 21st December</title>
-<link>https://www.fixmystreet.com/report/8578301</link>
-<description>The recycling bins near Shortlands Station are overflowing. Please could these be emptied as soon as possible? Thank you!!&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578301.0.jpeg?b8f7fd59&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bromley Road, Shortlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578301&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Litter and Detritus</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8578301</guid>
-<pubDate>Sun, 21 Dec 2025 20:57:58 +0000</pubDate>
-<georss:point>51.405849 0.001343</georss:point>
-</item>
-<item>
-<title>Can bin please be emptied?, 21st December</title>
-<link>https://www.fixmystreet.com/report/8578293</link>
-<description>Please can this bin near the bus stop be emptied? It’s overflowing, thank you!&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578293.0.jpeg?6e0936b3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Shortlands Road, Shortlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578293&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Public Litter Bin</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8578293</guid>
-<pubDate>Sun, 21 Dec 2025 20:56:03 +0000</pubDate>
-<georss:point>51.403546 -0.000759</georss:point>
-</item>
-<item>
-<title>Junction of Chamberlain St/Regents Park Rd/Sharples Hall St in middle of road., 21st December</title>
-<link>https://www.fixmystreet.com/report/8578274</link>
-<description>There is a raised sewer vent. The road has subsided around this vent. In the early morning truck go over the vent and the whole area shakes.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 146, Regent&#39;s Park Road, Chalk Farm, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578274&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Defect</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8578274</guid>
-<pubDate>Sun, 21 Dec 2025 20:48:22 +0000</pubDate>
-<georss:point>51.541194 -0.157331</georss:point>
-</item>
-<item>
-<title>Wait button isn’t working., 21st December</title>
-<link>https://www.fixmystreet.com/report/8578262</link>
-<description>Pedestrian crossing close to Hackney Central station is not working properly. The wait button is always on, even without the wait button being pressed. It stays red all the time even while it’s green for pedestrians, and when the seconds countdown is happening (as shown in first foto). This means the pedestrian traffic light turns green at least every minute or so, and cars have to stop wait for nothing. It has been like this for weeks at least and exacerbates the already dreadful congestion on Graham Road. Please fix.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8578262.0.jpeg?691b1bdf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 216, Graham Road, Hackney, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8578262&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pedestrian wait button not working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8578262</guid>
-<pubDate>Sun, 21 Dec 2025 20:43:43 +0000</pubDate>
-<georss:point>51.546624 -0.056467</georss:point>
 </item>
 </channel>
 </rss>
