@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>In front of Building Site on Granville Road NW6 and in front of Red Brick Building Being Reconstructed, 23rd December</title>
+<link>https://www.fixmystreet.com/report/8583520</link>
+<description>Litter was NOT Removed on 22.12.25. STILL Litter There. Only Mattress was Moved. Make sure it’s the Side The Building Work is on that Needs The Litter Bags etc Removed. Cars are Parked along where the Litter is.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8583520.0.jpeg?8751fdd1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Granville Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8583520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street needs sweeping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8583520</guid>
+<pubDate>Tue, 23 Dec 2025 03:06:21 +0000</pubDate>
+<georss:point>51.532992 -0.19521</georss:point>
+</item>
 <item>
 <title>Rubbish next to bin sheds, 23rd December</title>
 <link>https://www.fixmystreet.com/report/8583496</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8583164</guid>
 <pubDate>Mon, 22 Dec 2025 21:40:08 +0000</pubDate>
 <georss:point>51.472794 -0.032326</georss:point>
-</item>
-<item>
-<title>Dangerously parked vehicle on pavement., 22nd December</title>
-<link>https://www.fixmystreet.com/report/8583146</link>
-<description>Vehicle registration number LB07NJB illegally parked on pavement junction of Plumstead High Street and Bastion Road SE2. This is blocking the pavement and dangerously limiting drivers vision leaving Bastion Road.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8583146.0.jpeg?6f787590&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Bostall Hill, Abbey Wood&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8583146&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Roads/highways</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8583146</guid>
-<pubDate>Mon, 22 Dec 2025 21:36:44 +0000</pubDate>
-<georss:point>51.484746 0.10562</georss:point>
 </item>
 </channel>
 </rss>
