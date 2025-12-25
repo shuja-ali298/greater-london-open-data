@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,51 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Opposite 40 Kingswood Ave. NW6, 25th December</title>
+<link>https://www.fixmystreet.com/report/8591022</link>
+<description>Discarded rug and black bag full of rubbish&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8591022.0.jpeg?3208e367&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingswood Avenue, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8591022&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Small - Less than one bag</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8591022</guid>
+<pubDate>Thu, 25 Dec 2025 22:00:59 +0000</pubDate>
+<georss:point>51.537818 -0.210409</georss:point>
+</item>
+<item>
+<title>Excessive litter onto the pavement, 25th December</title>
+<link>https://www.fixmystreet.com/report/8591019</link>
+<description>Once again the rubbish on 67 queen drive overflows onto the street. the rubbish has been dumped all over the pavement making it difficult to access. there are pieces of broken glass all over, making it dangerous for animals and children&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8591019.0.jpeg?11c54025&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Queens Drive, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8591019&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8591019</guid>
+<pubDate>Thu, 25 Dec 2025 21:55:39 +0000</pubDate>
+<georss:point>51.562189 -0.09584</georss:point>
+</item>
+<item>
+<title>Opposite 16 Milman Road NW6, 25th December</title>
+<link>https://www.fixmystreet.com/report/8591012</link>
+<description>Black bags&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8591012.0.jpeg?22b38d2f&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Milman Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8591012&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Small - Less than one bag</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8591012</guid>
+<pubDate>Thu, 25 Dec 2025 21:50:16 +0000</pubDate>
+<georss:point>51.534649 -0.21224</georss:point>
+</item>
+<item>
+<title>Milman road at junction of with Harvist Rd, 25th December</title>
+<link>https://www.fixmystreet.com/report/8591007</link>
+<description>Chest of drawers&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8591007.0.jpeg?4437a548&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Harvist Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8591007&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Medium - Up to medium size van load</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8591007</guid>
+<pubDate>Thu, 25 Dec 2025 21:45:15 +0000</pubDate>
+<georss:point>51.533549 -0.210941</georss:point>
+</item>
+<item>
+<title>Opposite 19 Kingswood Ave NW6, 25th December</title>
+<link>https://www.fixmystreet.com/report/8591004</link>
+<description>Cardboard box full of rubbish&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8591004.0.jpeg?632fbdc6&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingswood Avenue, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8591004&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Small - Less than one bag</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8591004</guid>
+<pubDate>Thu, 25 Dec 2025 21:34:28 +0000</pubDate>
+<georss:point>51.535961 -0.208849</georss:point>
+</item>
 <item>
 <title>Potholes on down section of road, 25th December</title>
 <link>https://www.fixmystreet.com/report/8590973</link>
@@ -148,51 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8590763</guid>
 <pubDate>Thu, 25 Dec 2025 16:19:32 +0000</pubDate>
 <georss:point>51.480949 0.032504</georss:point>
-</item>
-<item>
-<title>Flytipping........as usual, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590713</link>
-<description>Dirty sodden mattress left with other items added by a resident. Moved items away block gate entrance as it attracts more dumping in a secluded corner which then blocks the fire exit. Tedious.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590713.0.jpeg?1c2a2428&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Pitman Street, Camberwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590713&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping - General (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590713</guid>
-<pubDate>Thu, 25 Dec 2025 15:13:47 +0000</pubDate>
-<georss:point>51.478792 -0.099149</georss:point>
-</item>
-<item>
-<title>Fly tipped desk, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590703</link>
-<description>Fly tipped desk&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590703.0.jpeg?ce7de5c6&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brooke Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590703&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590703</guid>
-<pubDate>Thu, 25 Dec 2025 15:00:47 +0000</pubDate>
-<georss:point>51.560499 -0.069324</georss:point>
-</item>
-<item>
-<title>Graffiti on two signs, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590659</link>
-<description>Graffiti on two signs&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590659.0.jpeg?03758af7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Thurlow Park Road, Dulwich, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590659&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti - General (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590659</guid>
-<pubDate>Thu, 25 Dec 2025 14:07:40 +0000</pubDate>
-<georss:point>51.441431 -0.091502</georss:point>
-</item>
-<item>
-<title>Fridge dumped on 4th floor of Glennie Court, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590657</link>
-<description>Fridge dumped on 4th floor of Glennie Court&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590657.0.jpeg?7878e7b4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lordship Lane, East Dulwich, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590657&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping - General (Estates)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590657</guid>
-<pubDate>Thu, 25 Dec 2025 14:05:24 +0000</pubDate>
-<georss:point>51.444081 -0.070042</georss:point>
-</item>
-<item>
-<title>Graffiti on litter bin, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590655</link>
-<description>Graffiti on litter bin&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590655.0.jpeg?7476fde7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Lordship Lane, East Dulwich, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590655&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti - General (Estates)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590655</guid>
-<pubDate>Thu, 25 Dec 2025 14:02:48 +0000</pubDate>
-<georss:point>51.445299 -0.07091</georss:point>
 </item>
 </channel>
 </rss>
