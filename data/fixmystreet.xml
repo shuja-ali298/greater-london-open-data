@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>3 months of Mr Wheelbarrow, 25th December</title>
+<link>https://www.fixmystreet.com/report/8590763</link>
+<description>Don&amp;#39;t think anyone&amp;#39;s coming back for him&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590763.0.jpeg?1d125f3e&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Elliscombe Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590763&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8590763</guid>
+<pubDate>Thu, 25 Dec 2025 16:19:32 +0000</pubDate>
+<georss:point>51.480949 0.032504</georss:point>
+</item>
 <item>
 <title>Flytipping........as usual, 25th December</title>
 <link>https://www.fixmystreet.com/report/8590713</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8590488</guid>
 <pubDate>Thu, 25 Dec 2025 11:16:01 +0000</pubDate>
 <georss:point>51.428232 0.010935</georss:point>
-</item>
-<item>
-<title>Brondesbury road, 25th December</title>
-<link>https://www.fixmystreet.com/report/8590476</link>
-<description>Mattress etc&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8590476.0.jpeg?1c77e5e0&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brondesbury Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8590476&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Large - More than a van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8590476</guid>
-<pubDate>Thu, 25 Dec 2025 11:04:11 +0000</pubDate>
-<georss:point>51.537911 -0.195506</georss:point>
 </item>
 </channel>
 </rss>
