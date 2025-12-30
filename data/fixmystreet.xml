@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>At the start of gallon close, 30th December</title>
+<link>https://www.fixmystreet.com/report/8603813</link>
+<description>There is a pile of baby items including a cot and highchair&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gallon Close, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8603813&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8603813</guid>
+<pubDate>Tue, 30 Dec 2025 05:46:44 +0000</pubDate>
+<georss:point>51.488247 0.035956</georss:point>
+</item>
 <item>
 <title>&quot;Shelton Street&quot; sign reversed / facing wrong way, 30th December</title>
 <link>https://www.fixmystreet.com/report/8603754</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8603529</guid>
 <pubDate>Mon, 29 Dec 2025 21:56:10 +0000</pubDate>
 <georss:point>51.490204 -0.095792</georss:point>
-</item>
-<item>
-<title>Outside 25 priory park Road, 29th December</title>
-<link>https://www.fixmystreet.com/report/8603476</link>
-<description>Fly tipped bags of construction waste - returned from Christmas holidays to find outside my house bricks in the bags etc&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8603476.0.jpeg?e4fe92c2&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Priory Park Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8603476&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Small - Less than one bag</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8603476</guid>
-<pubDate>Mon, 29 Dec 2025 21:29:08 +0000</pubDate>
-<georss:point>51.540089 -0.198434</georss:point>
 </item>
 </channel>
 </rss>
