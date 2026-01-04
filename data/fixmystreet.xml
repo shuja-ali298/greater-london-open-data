@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Large collection of rubbish, 4th January</title>
+<link>https://www.fixmystreet.com/report/8622360</link>
+<description>A large collection of rubbish has been fly tipped at the entrance to Gillett place on the left. It looks like some of it could be commercial. Potential fire hazard and also blocking the exit button for the gate for residents.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingsland High Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8622360&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8622360</guid>
+<pubDate>Sun, 04 Jan 2026 04:02:59 +0000</pubDate>
+<georss:point>51.54907 -0.076018</georss:point>
+</item>
 <item>
 <title>2 lime bikes blocking entrance, 4th January</title>
 <link>https://www.fixmystreet.com/report/8622353</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8622112</guid>
 <pubDate>Sat, 03 Jan 2026 21:44:53 +0000</pubDate>
 <georss:point>51.480346 0.081252</georss:point>
-</item>
-<item>
-<title>Abandoned un taxed vehicle, 3rd January</title>
-<link>https://www.fixmystreet.com/report/8622101</link>
-<description>This car has been parked on the square for some weeks. We have checked and it is untaxed.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8622101.0.jpeg?613604e3&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charles Square Estate, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8622101&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8622101</guid>
-<pubDate>Sat, 03 Jan 2026 21:33:34 +0000</pubDate>
-<georss:point>51.527337 -0.084654</georss:point>
 </item>
 </channel>
 </rss>
