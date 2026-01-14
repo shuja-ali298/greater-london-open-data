@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>Graffiti all over Coop shutters in The Village, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685182</link>
-<description>Graffiti with normal.Loose $V tag appeared on Coop shutters in The Village&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685182.0.jpeg?1de7c425&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): The Village, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685182&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685182</guid>
-<pubDate>Wed, 14 Jan 2026 10:36:05 +0000</pubDate>
-<georss:point>51.482055 0.037095</georss:point>
-</item>
-<item>
-<title>Fly tipped bases, mattresses etc., 14th January</title>
-<link>https://www.fixmystreet.com/report/8685176</link>
-<description>Settee base and bed bases. Settee base been here weeks and previously reported. Bed base and mattress etc. have recently been added because fly tipped items only attract more fly tipping. This will become a regular dump if not dealt with quickly. Please remove.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685176.0.jpeg?7aaacaa8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Hylton Street, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685176&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685176</guid>
-<pubDate>Wed, 14 Jan 2026 10:35:25 +0000</pubDate>
-<georss:point>51.488994 0.096314</georss:point>
-</item>
-<item>
-<title>Bags of leaves on the sterr, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685148</link>
-<description>Waste not collected for weeks&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685148.0.jpeg?2f1d77d1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Lee Conservancy Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685148&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685148</guid>
-<pubDate>Wed, 14 Jan 2026 10:31:51 +0000</pubDate>
-<georss:point>51.550806 -0.030577</georss:point>
-</item>
-<item>
-<title>Flytipped chair, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685136</link>
-<description>Flutipped chair&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685136.0.jpeg?5da76508&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Dalston Lane, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685136&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685136</guid>
-<pubDate>Wed, 14 Jan 2026 10:30:52 +0000</pubDate>
-<georss:point>51.545939 -0.071569</georss:point>
-</item>
-<item>
-<title>Dumped chest of drawers, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685119</link>
-<description>Been here a couple of weeks now.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685119.0.jpeg?0445894f&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brookdene Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685119&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685119</guid>
-<pubDate>Wed, 14 Jan 2026 10:29:09 +0000</pubDate>
-<georss:point>51.488615 0.098922</georss:point>
-</item>
-<item>
-<title>Near 2 Torbay, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685110</link>
-<description>Fly tipping wardrobe&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685110.0.jpeg?4ad32757&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Torbay Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685110&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Medium - Up to medium size van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685110</guid>
-<pubDate>Wed, 14 Jan 2026 10:27:11 +0000</pubDate>
-<georss:point>51.541148 -0.203087</georss:point>
-</item>
-<item>
-<title>Piles of Leaves left behind, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685103</link>
-<description>After your road sweeper came to clean The Avenue and then The Drive this morning a few piles of leaves were left behind.&amp;#10;&amp;#10;It looks worse than before he came, although he did clear out the drain that was completely covered.&amp;#10;&amp;#10;I assume that his truck was full and he will return to finish the job later today.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685103.0.jpeg?5cf0ac95&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 94, The Drive, Blendon, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685103&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning and litter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685103</guid>
-<pubDate>Wed, 14 Jan 2026 10:25:56 +0000</pubDate>
-<georss:point>51.444913 0.124078</georss:point>
-</item>
-<item>
-<title>Dumped chair, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685060</link>
-<description>Chair has been dumped&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685060.0.jpeg?6fa7d3af&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Elmers End Road, Anerley, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685060&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytip</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685060</guid>
-<pubDate>Wed, 14 Jan 2026 10:19:45 +0000</pubDate>
-<georss:point>51.407314 -0.058886</georss:point>
-</item>
-<item>
-<title>Wooden boards, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685037</link>
-<description>A piece of wood left on the street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685037.0.jpeg?822a42b2&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Meeson Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685037&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685037</guid>
-<pubDate>Wed, 14 Jan 2026 10:16:51 +0000</pubDate>
-<georss:point>51.551993 -0.036525</georss:point>
-</item>
-<item>
-<title>Lifted paving stones, 14th January</title>
-<link>https://www.fixmystreet.com/report/8685003</link>
-<description>Report ref: 8444892 I have received today an email advising problem resolved. The item has not been resolved. Tree roots from tree outside 18 Palace View are still pushing the pavements and tarmac up making the pavement area quite dangerous for people and prams also mobility issued. The problem HAS NOT been fixed.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ringers Road, Shortlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685003&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Pavement Slope, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685812</link>
+<description>Pavement sloping outside school entrance close to issues outside 20 High Street.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Malcolm Road, Penge, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685812&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Pavement Defect</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8685003</guid>
-<pubDate>Wed, 14 Jan 2026 10:12:17 +0000</pubDate>
-<georss:point>51.401217 0.014408</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685812</guid>
+<pubDate>Wed, 14 Jan 2026 11:30:18 +0000</pubDate>
+<georss:point>51.41736 -0.058081</georss:point>
 </item>
 <item>
-<title>Street needs sweeping, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684986</link>
-<description>I reported that the street needed cleaning on Sunday &amp;amp; received a notification on Monday to say that it had been cleaned &amp;amp; my enquiry has been closed &amp;amp; yet it has not been cleaned. The bags of dog poo outside number 54 are still there and so too other rubbish. Could we please sweep the street properly. Many thanks&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Winchester Avenue, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684986&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning - Street needs sweeping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684986</guid>
-<pubDate>Wed, 14 Jan 2026 10:08:30 +0000</pubDate>
-<georss:point>51.540544 -0.208879</georss:point>
+<title>Hackney Council housing manager Denise Corbyn not informing residents on the Trowbridge estate of work being carried out causing disturbance inconvenience to other residents. Housing officer Denise Corbin walks around dressed inappropriate for the job like a fashion model. Housing officer Not wearing ID/displaying card to prove who she is. Housing officer Denise corbin is in the wrong job. Denise Corbin housing officer should not be a housing manager very incompetent. Solar panel engineers parking vehicles illegally causing obstruction because the housing officer has not gave subcontractor work parking permits. Housing officer Denise Corbin told subcontractor to park in residential parking spaces. Housing officer Denise Corbin is a bad project manager for this job. Site supervision needed. It&#39;s not a lot to ask for the housing officer Denise Corbin to inform residents of work being carried out., 14th January</title>
+<link>https://www.fixmystreet.com/report/8685797</link>
+<description>Housing officer not informing resident/lease holders of work schedule being carried out. Causing disturbance/inconvenient to people&amp;#39;s work schedules because of noise.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685797.0.jpeg?641b80cd&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Hillman Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685797&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Maintenance / Repairs Issue</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685797</guid>
+<pubDate>Wed, 14 Jan 2026 11:29:14 +0000</pubDate>
+<georss:point>51.545294 -0.057699</georss:point>
 </item>
 <item>
-<title>Lime bikes blocking pavement, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684972</link>
-<description>There are bikes related to lime blocking the pavement around 55 Baker street. The bikes need to be removed&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684972.0.jpeg?cea07204&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 40-42, Baker Street, Marylebone, City of Westminster&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684972&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Lime bike or scooter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684972</guid>
-<pubDate>Wed, 14 Jan 2026 10:06:28 +0000</pubDate>
-<georss:point>51.518408 -0.155703</georss:point>
+<title>Bike frame, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685775</link>
+<description>Abandoned frame&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685775.0.jpeg?19df54c4&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Foot Path From Lamb Lane To Mare Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685775&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned push bike/bike frame</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685775</guid>
+<pubDate>Wed, 14 Jan 2026 11:27:11 +0000</pubDate>
+<georss:point>51.54046 -0.056352</georss:point>
 </item>
 <item>
-<title>Fridge freezer and now other items added, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684960</link>
-<description>This &amp;#39;EYESORE&amp;#39; of rubbish has been outside the block of flats where i live on the pathway for several weeks now, it started off with just the fridge freezer but as the weeks have gone on more rubbish has been added to it.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684960.0.jpeg?5b28df0d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Brook Street, Lessness Heath, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684960&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684960</guid>
-<pubDate>Wed, 14 Jan 2026 10:05:21 +0000</pubDate>
-<georss:point>51.48387 0.152394</georss:point>
+<title>Xmas tree, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685769</link>
+<description>Fly-tipping Lat/Long - 51.4080918, -0.0313865 what3words - soccer.length.forest Nearest address - 87 Rectory Road, Beckenham, BR3 1HR&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685769.0.jpeg?38ab7add&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 87, Rectory Road, Beckenham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685769&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685769</guid>
+<pubDate>Wed, 14 Jan 2026 11:26:24 +0000</pubDate>
+<georss:point>51.40826 -0.031493</georss:point>
 </item>
 <item>
-<title>Lime bikes blocking access to crossing, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684949</link>
-<description>Reported regularly but never resolved&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684949.0.jpeg?5beda17e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, St. John Street, Clerkenwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684949&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Lime bike or scooter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684949</guid>
-<pubDate>Wed, 14 Jan 2026 10:03:49 +0000</pubDate>
-<georss:point>51.519801 -0.101828</georss:point>
+<title>A Fly-tip Large - More than 10 black bags problem has been found, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685738</link>
+<description>A Fly-tip Large - More than 10 black bags problem has been found by Brent Council&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685738.0.jpeg?6fb1d7aa&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Winchester Avenue, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685738&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Large - More than a van load (Estates)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685738</guid>
+<pubDate>Wed, 14 Jan 2026 11:23:12 +0000</pubDate>
+<georss:point>51.541755 -0.207906</georss:point>
 </item>
 <item>
-<title>Outside number 2, 3, 4 Wavel Mews, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684921</link>
-<description>Thames Water has repaired a broken pipe but not relayed the cobbles properly. Some are loose and have no cement bonding to fix them in place. There is also a lot of silt and cement left on the road and in the drainage gulley. Please can you send your highways team to fix this. Thanks&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 4, Wavel Mews, South Hampstead, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684921&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Defect</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684921</guid>
-<pubDate>Wed, 14 Jan 2026 10:00:00 +0000</pubDate>
-<georss:point>51.541515 -0.19048</georss:point>
+<title>To the rear of 5 - 7 Collection Place, in front of Bramshurst &amp; Exonbury., 14th January</title>
+<link>https://www.fixmystreet.com/report/8685727</link>
+<description>There is a mature Ash - Narrow-leafed tree located at the rear of Collection Place; which we have been alerted to as it is touching the houses. Its canopy hangs close to the building (see photo), which could be damaged by windstorm, including if the tree falls. I can see via Camden Council website that there are outstanding works for this tree. Could these works be carried out as a matter of urgency to minimize the risk of it damaging the neighboring houses and property.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bolton Road, Maida Vale, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685727&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree touching building</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685727</guid>
+<pubDate>Wed, 14 Jan 2026 11:22:26 +0000</pubDate>
+<georss:point>51.53756 -0.186156</georss:point>
 </item>
 <item>
-<title>3 x Barriers left on pavement o/s 5 - 6 Warren Road, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684909</link>
-<description>The works have been completed on the pavement but the barriers have been left. They keep getting blown by the wind so need removing immediately.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 5, Warren Road, Albany Park, Sidcup, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684909&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Utility equipment</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684909</guid>
-<pubDate>Wed, 14 Jan 2026 09:58:25 +0000</pubDate>
-<georss:point>51.428467 0.114189</georss:point>
-</item>
-<item>
-<title>Rosendale Road SE21 south west corner of Park Hall, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684870</link>
-<description>Rosendale Road SE21 south west corner of Park Hall Road (ie BT phone exchange corner) junction yellow plastic grit bin multi tagged. Please forward fixmystreet.com link to your contractor for reporting pin, picture &amp;amp; Google Streetview link: https://www.google.com/maps/@51.4356578,-0.0937271,3a,26.6y,196.19h,85.97t/data=!3m7!1e1!3m5!1sjvBspJrcsVLL7onXGZdCJw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.0270550000461185%26panoid%3DjvBspJrcsVLL7onXGZdCJw%26yaw%3D196.19297911047823!7i16384!8i8192?entry=ttu&amp;amp;g_ep=EgoyMDI2MDEwNy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684870.0.jpeg?fd3a4432&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Park Hall Road, Tulse Hill, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684870&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684870</guid>
-<pubDate>Wed, 14 Jan 2026 09:51:41 +0000</pubDate>
-<georss:point>51.435926 -0.090603</georss:point>
-</item>
-<item>
-<title>Huge amount of clothes discarded and blocking footpath, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684855</link>
-<description>Huge amount of clothes discarded and blocking footpath&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684855.0.jpeg?f7cb7126&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingsland Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684855&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684855</guid>
-<pubDate>Wed, 14 Jan 2026 09:50:01 +0000</pubDate>
-<georss:point>51.544178 -0.075626</georss:point>
-</item>
-<item>
-<title>Flytipped mattress, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684847</link>
-<description>Mattress left out on street. Flytippers as usual.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684847.0.jpeg?5ba95bed&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Benares Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684847&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Several Christmas trees on the street for days, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685725</link>
+<description>See summary&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685725.0.jpeg?4d0c58be&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Woodland Crescent, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685725&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684847</guid>
-<pubDate>Wed, 14 Jan 2026 09:48:47 +0000</pubDate>
-<georss:point>51.488138 0.095416</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685725</guid>
+<pubDate>Wed, 14 Jan 2026 11:22:12 +0000</pubDate>
+<georss:point>51.483735 0.001867</georss:point>
 </item>
 <item>
-<title>Shopping trolley full of rubbish, 14th January</title>
-<link>https://www.fixmystreet.com/report/8684841</link>
-<description>Shopping trolley full of rubbish&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8684841.0.jpeg?7e382677&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 11, Fisher Close, Rotherhithe, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8684841&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping - General (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8684841</guid>
-<pubDate>Wed, 14 Jan 2026 09:48:17 +0000</pubDate>
-<georss:point>51.505107 -0.041686</georss:point>
+<title>Saxville entrance selwyn dump bagged cement/6ft lengths wood beading, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685716</link>
+<description>Saxville entrance selwyn dump bagged cement/6ft lengths wood beading&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 1, Selwyn Place, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685716&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685716</guid>
+<pubDate>Wed, 14 Jan 2026 11:20:53 +0000</pubDate>
+<georss:point>51.400227 0.108001</georss:point>
+</item>
+<item>
+<title>Tree o/s no 24 - has a notice on it to remove, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685698</link>
+<description>Resident reporting the tree o/s her property has a notice from the Council to remove it, please could someone look into this asap please because it is only boarded up by 1 cone and 2 yellow barriers, however in the wind they are just being blown about and in front of the residents drive and hitting her car. Resident is also waiting for her front brick wall to be taken down to make more room but the builders can not get this job done because the pavement is raised an d tree removed. Resident is disabled and finding it difficult to keep picking up the barriers, other pedestrians with buggies move the barriers because they cant get by.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tenby Road, West Heath, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685698&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685698</guid>
+<pubDate>Wed, 14 Jan 2026 11:18:59 +0000</pubDate>
+<georss:point>51.471445 0.123868</georss:point>
+</item>
+<item>
+<title>More abandoned works signs, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685692</link>
+<description>Please ask the contractor to remove these signs left over from recent works&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685692.0.jpeg?9f0f56fa&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Whiston Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685692&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavement</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685692</guid>
+<pubDate>Wed, 14 Jan 2026 11:18:10 +0000</pubDate>
+<georss:point>51.534483 -0.075756</georss:point>
+</item>
+<item>
+<title>Luggage, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685690</link>
+<description>Dumped luggage&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685690.0.jpeg?db98670c&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Shore Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685690&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685690</guid>
+<pubDate>Wed, 14 Jan 2026 11:18:04 +0000</pubDate>
+<georss:point>51.539827 -0.052625</georss:point>
+</item>
+<item>
+<title>Flytipped traffic cone, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685688</link>
+<description>Flytipped traffic cone. Has been there 6 months.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685688.0.jpeg?95927050&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stockwell Park Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685688&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685688</guid>
+<pubDate>Wed, 14 Jan 2026 11:17:54 +0000</pubDate>
+<georss:point>51.470763 -0.116619</georss:point>
+</item>
+<item>
+<title>Sofa dumped by two males 19:56 13/1/26, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685686</link>
+<description>Sofa dumped by tree caught on security cameras. You can hear them talking on video.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685686.0.jpeg?0f05358e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 58-72, Osborne Road, Upper Belvedere, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685686&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Grass Verges</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685686</guid>
+<pubDate>Wed, 14 Jan 2026 11:19:03 +0000</pubDate>
+<georss:point>51.48246 0.139981</georss:point>
+</item>
+<item>
+<title>A Fly-tip Large - More than 10 black bags problem has been found, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685684</link>
+<description>A Fly-tip Large - More than 10 black bags problem has been found by Brent Council&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685684.0.jpeg?824b2087&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Willesden Lane, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685684&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Large - More than a van load (Estates)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685684</guid>
+<pubDate>Wed, 14 Jan 2026 11:16:56 +0000</pubDate>
+<georss:point>51.544911 -0.212702</georss:point>
+</item>
+<item>
+<title>Graffiti on street name sign, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685666</link>
+<description>Graffiti on street name sign&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685666.0.jpeg?f51b7b4f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stockwell Park Crescent, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685666&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685666</guid>
+<pubDate>Wed, 14 Jan 2026 11:14:44 +0000</pubDate>
+<georss:point>51.472396 -0.117221</georss:point>
+</item>
+<item>
+<title>Xmas tree, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685660</link>
+<description>Dumped Xmas tree and chair frame&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685660.0.jpeg?21dd28f3&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Tudor Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685660</guid>
+<pubDate>Wed, 14 Jan 2026 11:14:22 +0000</pubDate>
+<georss:point>51.538728 -0.054985</georss:point>
+</item>
+<item>
+<title>DANGEROUS HAZARD - Lime Bikes strewn across the footpath, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685607</link>
+<description>Unwelcome Street Hazard &amp;amp; Street Clutter&amp;#10;&amp;#10;Clear &amp;amp; present danger - trip hazard, collision hazard, street clutter - Lime bikes strewn across the footpath in Bardsley Lane, Greenwich without any consideration for pedestrians, able bodies or frail and disabled, or road vehicle traffic.&amp;#10;&amp;#10;This behaviour is &amp;quot;repugnantly anti-social&amp;quot; (extremely offensive and harmful to others, showing a complete disregard for social norms and the well-being of individuals in a community)&amp;#10;&amp;#10;Action requested - please a) remove, and, b) create a geo-fence exclusion zone for this area.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685607.0.jpeg?8172b732&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 19, Bardsley Lane, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685607&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685607</guid>
+<pubDate>Wed, 14 Jan 2026 11:13:36 +0000</pubDate>
+<georss:point>51.481037 -0.011283</georss:point>
+</item>
+<item>
+<title>Offensive graffiti on street sign, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685606</link>
+<description>Offensive graffiti on street sign. Been there 6 months +&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685606.0.jpeg?48e6cf59&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stockwell Park Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685606&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685606</guid>
+<pubDate>Wed, 14 Jan 2026 11:12:33 +0000</pubDate>
+<georss:point>51.471728 -0.116513</georss:point>
+</item>
+<item>
+<title>Graffiti on road sign, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685587</link>
+<description>Graffiti on road sign. Done recently&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685587.0.jpeg?c20845fa&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 27, Stockwell Park Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685587&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685587</guid>
+<pubDate>Wed, 14 Jan 2026 11:10:33 +0000</pubDate>
+<georss:point>51.472715 -0.116995</georss:point>
+</item>
+<item>
+<title>Rubbish dumped on pavement, 14th January</title>
+<link>https://www.fixmystreet.com/report/8685585</link>
+<description>Rubbish dumped on pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8685585.0.jpeg?f49fc854&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Orissa Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8685585&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8685585</guid>
+<pubDate>Wed, 14 Jan 2026 11:10:21 +0000</pubDate>
+<georss:point>51.486609 0.089352</georss:point>
 </item>
 </channel>
 </rss>
