@@ -3,8 +3,8 @@
 
 <rss version="2.0"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,78 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Pothole near ramp, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934504</link>
+<description>Large pothole and quite deep will cause damage if going over it. Filled with water due to the rain but it is getting bigger everyday. Been like it for some time now&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Edington Road, Abbey Wood&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934504&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934504</guid>
+<pubDate>Mon, 16 Feb 2026 19:32:02 +0000</pubDate>
+<georss:point>51.493802 0.116646</georss:point>
+</item>
+<item>
+<title>Fence falling down, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934465</link>
+<description>I have reported this issue several times and nothing has been done. My fence is breaking due to the amount of rubbish being dumped by the side. I was told it will be dealt with several times still nothing. Please I would like this issue to be resolved soon.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934465.0.jpeg?ddfe8f68&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kentlea Road, Thamesmead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934465&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934465</guid>
+<pubDate>Mon, 16 Feb 2026 19:25:48 +0000</pubDate>
+<georss:point>51.498514 0.095975</georss:point>
+</item>
+<item>
+<title>Sinking pot hole getting bigger, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934452</link>
+<description>Pot holes a hazard to motorists and cyclists as it&amp;#39;s in the middle of road.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): King William Walk, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934452&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934452</guid>
+<pubDate>Mon, 16 Feb 2026 19:22:26 +0000</pubDate>
+<georss:point>51.482613 -0.00395</georss:point>
+</item>
+<item>
+<title>2 massive potholes making motorists swerve to avoid and cyclists swerve nearly missingvars, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934450</link>
+<description>Pot hole has been about for a few weeks, fixed the one about 3 foot across the road couldn&amp;#39;t fix this one&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): King William Walk, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934450&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934450</guid>
+<pubDate>Mon, 16 Feb 2026 19:21:05 +0000</pubDate>
+<georss:point>51.482613 -0.00395</georss:point>
+</item>
+<item>
+<title>Large deep hole, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934439</link>
+<description>Pothole is where the wheel would naturally be positioned on the road&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Footscray Road, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934439&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934439</guid>
+<pubDate>Mon, 16 Feb 2026 19:19:38 +0000</pubDate>
+<georss:point>51.437896 0.071774</georss:point>
+</item>
+<item>
+<title>Xxxx enormous pothole xxxx, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934406</link>
+<description>50 x 80 x 60 size pothole wrecking cars wheels and suspension!!!&amp;#10;&amp;#10;I will send you my invoice for the repairs to my nearside whee and suspension just as soon as it’s been repaired!!&amp;#10;&amp;#10;Disgraceful that the locals have to send multiple reports yet no provisions are made either to protect road users or their cars and potentially endangering lives of other road users.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934406.0.jpeg?1fc5a809&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Avery Hill Road, Avery Hill&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934406&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934406</guid>
+<pubDate>Mon, 16 Feb 2026 19:15:21 +0000</pubDate>
+<georss:point>51.438557 0.074021</georss:point>
+</item>
+<item>
+<title>Smashed Vehicle dangerous sharp metal sticking out into the road, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934360</link>
+<description>Vehicle with smashed front end with sharp part of wing sticking out into road very dangerous for bike riders passing to close&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934360.0.jpeg?61e9b703&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Iron Mill Lane, Crayford, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934360&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned and untaxed vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934360</guid>
+<pubDate>Mon, 16 Feb 2026 19:06:19 +0000</pubDate>
+<georss:point>51.455591 0.18567</georss:point>
+</item>
+<item>
+<title>Dead cat in middle of road, 16th February</title>
+<link>https://www.fixmystreet.com/report/8934343</link>
+<description>Dead cat in the road&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Evering Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934343&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Excessive Litter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8934343</guid>
+<pubDate>Mon, 16 Feb 2026 19:04:11 +0000</pubDate>
+<georss:point>51.562038 -0.059025</georss:point>
+</item>
 <item>
 <title>Car parked without permit, 16th February</title>
 <link>https://www.fixmystreet.com/report/8934234</link>
@@ -121,78 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8934055</guid>
 <pubDate>Mon, 16 Feb 2026 18:21:45 +0000</pubDate>
 <georss:point>51.407293 0.031764</georss:point>
-</item>
-<item>
-<title>Big pothole with pieces of tarmac coming loose, 16th February</title>
-<link>https://www.fixmystreet.com/report/8934045</link>
-<description>Big pothole with pieces of tarmac coming loose. Could present a danger when vehicles are driving over this and could cause damage to vehicles&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934045.0.jpeg?40ef5873&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Green Walk, Crayford, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934045&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Damaged road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8934045</guid>
-<pubDate>Mon, 16 Feb 2026 18:21:06 +0000</pubDate>
-<georss:point>51.454763 0.185581</georss:point>
-</item>
-<item>
-<title>Abandoned car, 16th February</title>
-<link>https://www.fixmystreet.com/report/8934030</link>
-<description>This is also another vehicle which has been Abandoned for the last few months. The car is just sitting damaged and is taking up a space which effects residents parking.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934030.0.jpeg?19add717&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Woodmill Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934030&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8934030</guid>
-<pubDate>Mon, 16 Feb 2026 18:19:40 +0000</pubDate>
-<georss:point>51.565345 -0.049474</georss:point>
-</item>
-<item>
-<title>Abandoned car, 16th February</title>
-<link>https://www.fixmystreet.com/report/8934014</link>
-<description>This car is a vehicle which has been smashed and left to bits unworthy of being on the road. The car has no valid tax/mot or permit to park in a residential area . This car already has a notice dating Jan but has not been removed.&amp;#10;&amp;#10;Can you please remove i&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8934014.0.jpeg?b292c76d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Woodmill Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8934014&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8934014</guid>
-<pubDate>Mon, 16 Feb 2026 18:16:58 +0000</pubDate>
-<georss:point>51.565368 -0.049408</georss:point>
-</item>
-<item>
-<title>Bins left in pavement, 16th February</title>
-<link>https://www.fixmystreet.com/report/8933990</link>
-<description>The residents of Derwent house keep leaving their bins in the pavement outside their house . Looks insightly and shouldn’t be left There . Can they be asked to put the bins inside their gated property like everyone else does&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8933990.0.jpeg?6559681d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): St. George&#39;s Road, Bickley, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8933990&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Obstruction to Highway</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8933990</guid>
-<pubDate>Mon, 16 Feb 2026 18:14:06 +0000</pubDate>
-<georss:point>51.398636 0.04905</georss:point>
-</item>
-<item>
-<title>12 inch pot hole in the road outside 114 Merlin grove, 16th February</title>
-<link>https://www.fixmystreet.com/report/8933983</link>
-<description>Has been here for over a month and is getting bigger&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8933983.0.jpeg?83d1f9b2&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Merlin Grove, Eden Park, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8933983&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Defect</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8933983</guid>
-<pubDate>Mon, 16 Feb 2026 18:13:13 +0000</pubDate>
-<georss:point>51.394034 -0.029237</georss:point>
-</item>
-<item>
-<title>Deep pothole opposite bus stop, 16th February</title>
-<link>https://www.fixmystreet.com/report/8933981</link>
-<description>Deep pothole opposite the Old Road / Perry Street (towards Bexleyheath) bus stop&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8933981.0.jpeg?4d9af399&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Old Road, Crayford, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8933981&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Damaged road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8933981</guid>
-<pubDate>Mon, 16 Feb 2026 18:12:32 +0000</pubDate>
-<georss:point>51.454054 0.174126</georss:point>
-</item>
-<item>
-<title>Lamppost outside my house is not working , there is no light in the evenings , not very safe as visibility is poor, 16th February</title>
-<link>https://www.fixmystreet.com/report/8933949</link>
-<description>Faulty lamppost outside my house , the light is not working&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): St. George&#39;s Road, Bickley, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8933949&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light Not Working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8933949</guid>
-<pubDate>Mon, 16 Feb 2026 18:10:01 +0000</pubDate>
-<georss:point>51.39758 0.049032</georss:point>
-</item>
-<item>
-<title>Extremely large pothole - NOT FIXED!!!, 16th February</title>
-<link>https://www.fixmystreet.com/report/8933913</link>
-<description>The pothole has been &amp;quot;patched&amp;quot; various times over the years and never fully repaired. It causes mass issues to cars suspension and steering alignments. Bikes and mopeds swerve to avoid it as hitting it will make them flip, you could easily stand in it for the depth and width of it. Being a main bus/lorry route this is destroying the road and will subsidise soon enough if not delt with.&amp;#10;&amp;#10;This has been an issue for months, it keeps getting worse.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 136, Mayplace Road East, Barnehurst, Bexleyheath, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8933913&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Damaged road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8933913</guid>
-<pubDate>Mon, 16 Feb 2026 18:05:16 +0000</pubDate>
-<georss:point>51.459777 0.159889</georss:point>
 </item>
 </channel>
 </rss>
