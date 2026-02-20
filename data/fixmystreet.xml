@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Fridge, large, flytipped, 20th February</title>
+<link>https://www.fixmystreet.com/report/8959625</link>
+<description>Flytipped large fridge&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8959625.0.jpeg?ff0d8c82&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Abergeldie Road, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8959625&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8959625</guid>
+<pubDate>Fri, 20 Feb 2026 05:46:55 +0000</pubDate>
+<georss:point>51.450975 0.027738</georss:point>
+</item>
 <item>
 <title>Collapsed road gulley, 20th February</title>
 <link>https://www.fixmystreet.com/report/8959602</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8959134</guid>
 <pubDate>Thu, 19 Feb 2026 22:21:42 +0000</pubDate>
 <georss:point>51.414306 -0.050768</georss:point>
-</item>
-<item>
-<title>Abandoned?, 19th February</title>
-<link>https://www.fixmystreet.com/report/8959126</link>
-<description>Vehicle on Romanian plates been parked on the stretch of Kings Highway for a long while - being foreign no idea if even taxed, insured, MOT’d&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kings Highway, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8959126&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8959126</guid>
-<pubDate>Thu, 19 Feb 2026 22:19:42 +0000</pubDate>
-<georss:point>51.479109 0.10338</georss:point>
 </item>
 </channel>
 </rss>
