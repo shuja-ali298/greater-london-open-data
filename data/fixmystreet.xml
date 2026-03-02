@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Over Flowing bin, 2nd March</title>
+<link>https://www.fixmystreet.com/report/9024793</link>
+<description>Greenwich removed the bin on Plum Lane! Suggesting Dallin Rd Bin would be ok !&amp;#10;&amp;#10;It&amp;#39;s not! reinstate Bin on Plum lane and empty one on Dallin frequently. SORT it BRING BACK OUR PLUM LANE BIN...&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9024793.0.jpeg?e5fae65c&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Dallin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9024793&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Litter Bin</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9024793</guid>
+<pubDate>Mon, 02 Mar 2026 03:37:43 +0000</pubDate>
+<georss:point>51.477289 0.0703</georss:point>
+</item>
 <item>
 <title>Flytipping, 1st March</title>
 <link>https://www.fixmystreet.com/report/9024716</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9024569</guid>
 <pubDate>Sun, 01 Mar 2026 22:22:22 +0000</pubDate>
 <georss:point>51.482274 0.064192</georss:point>
-</item>
-<item>
-<title>Potholes on the cycle lane, 1st March</title>
-<link>https://www.fixmystreet.com/report/9024564</link>
-<description>There are multiple potholes in the cycle lane. To avoid them i had to swerve onto the road, just as it curves and very nearly got hit by a car.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charlton Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9024564&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9024564</guid>
-<pubDate>Sun, 01 Mar 2026 22:22:16 +0000</pubDate>
-<georss:point>51.478353 0.021338</georss:point>
 </item>
 </channel>
 </rss>
