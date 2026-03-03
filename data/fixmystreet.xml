@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -14,6 +14,51 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Flytipping, 3rd March</title>
+<link>https://www.fixmystreet.com/report/9040984</link>
+<description>Mattress and bags dumped by church at 107 Palmerston Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040984.0.jpeg?f2ff22cb&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Palmerston Road, Southgate&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040984&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9040984</guid>
+<pubDate>Tue, 03 Mar 2026 23:14:14 +0000</pubDate>
+<georss:point>51.610081 -0.114252</georss:point>
+</item>
+<item>
+<title>Litter where buses stand near the Common, 3rd March</title>
+<link>https://www.fixmystreet.com/report/9040976</link>
+<description>It would be great if this area was swept regularly or even a bin installed for the drivers.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040976.0.jpeg?dcab6110&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Stoke Newington Common, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040976&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Excessive Litter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9040976</guid>
+<pubDate>Tue, 03 Mar 2026 23:08:15 +0000</pubDate>
+<georss:point>51.561582 -0.069601</georss:point>
+</item>
+<item>
+<title>These pieces of abandoned rubbish were left in front on our house, 3rd March</title>
+<link>https://www.fixmystreet.com/report/9040973</link>
+<description>It seems that the bed, which was abandoned together with these things, was taken either by someone or Hackney Council already, but the remaining abandoned rubbish is still left in front of our house&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040973.0.jpeg?40cc7b9a&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kersley Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040973&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9040973</guid>
+<pubDate>Tue, 03 Mar 2026 23:06:59 +0000</pubDate>
+<georss:point>51.560886 -0.077328</georss:point>
+</item>
+<item>
+<title>Old Christmas tree, 3rd March</title>
+<link>https://www.fixmystreet.com/report/9040965</link>
+<description>The remnants of a Christmas tree have been left next to the bins. Could this be collected, please? Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040965.0.jpeg?2d82a714&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Clapton Terrace, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040965&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Excessive Litter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9040965</guid>
+<pubDate>Tue, 03 Mar 2026 23:02:31 +0000</pubDate>
+<georss:point>51.569998 -0.06414</georss:point>
+</item>
+<item>
+<title>Debris/cement on road danger to motorcycles, 3rd March</title>
+<link>https://www.fixmystreet.com/report/9040923</link>
+<description>Hardened debris/cement and chippings in the middle of each lane - both directions - are a danger to motorcycles, particularly when braking! This needs to be removed asap.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Knee Hill, Abbey Wood&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040923&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street Spillage</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9040923</guid>
+<pubDate>Tue, 03 Mar 2026 22:45:46 +0000</pubDate>
+<georss:point>51.486638 0.121705</georss:point>
+</item>
 <item>
 <title>Parking sign vandalized (Allerton St to Murray Grove), 3rd March</title>
 <link>https://www.fixmystreet.com/report/9040903</link>
@@ -148,51 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9040738</guid>
 <pubDate>Tue, 03 Mar 2026 21:40:39 +0000</pubDate>
 <georss:point>51.500293 0.094831</georss:point>
-</item>
-<item>
-<title>Non-electric bike abandoned outside Beckenham Court, 2 The Avenue, Beckenham, 3rd March</title>
-<link>https://www.fixmystreet.com/report/9040712</link>
-<description>A non-electric bike has been abandoned against a wall in front of Beckenham Court, 2 The Avenue, Beckenham. The back tyre appears to have a puncture. Please can it be removed and reunited with its owner? Thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040712.0.jpeg?ab334c25&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): The Avenue, Beckenham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040712&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Lime bike or scooter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9040712</guid>
-<pubDate>Tue, 03 Mar 2026 21:32:14 +0000</pubDate>
-<georss:point>51.411672 -0.024155</georss:point>
-</item>
-<item>
-<title>Estate agent board, 3rd March</title>
-<link>https://www.fixmystreet.com/report/9040710</link>
-<description>Estate agent board&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040710.0.jpeg?dbd05da5&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hargwyne Street, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040710&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9040710</guid>
-<pubDate>Tue, 03 Mar 2026 21:31:51 +0000</pubDate>
-<georss:point>51.465594 -0.121183</georss:point>
-</item>
-<item>
-<title>Deep potholes in the middle of the road, 3rd March</title>
-<link>https://www.fixmystreet.com/report/9040663</link>
-<description>A few deep potholes in Ash Grove N13&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040663.0.jpeg?fcb0873d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Ash Grove, Southgate&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040663&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pothole in the road</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9040663</guid>
-<pubDate>Tue, 03 Mar 2026 21:30:18 +0000</pubDate>
-<georss:point>51.624256 -0.092265</georss:point>
-</item>
-<item>
-<title>White pole, 3rd March</title>
-<link>https://www.fixmystreet.com/report/9040703</link>
-<description>White pole&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040703.0.jpeg?f3a75c1b&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Nealden Street, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040703&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9040703</guid>
-<pubDate>Tue, 03 Mar 2026 21:29:17 +0000</pubDate>
-<georss:point>51.466326 -0.12101</georss:point>
-</item>
-<item>
-<title>Lots of rubbish accumulating, 3rd March</title>
-<link>https://www.fixmystreet.com/report/9040700</link>
-<description>General rubbish accumulating in the area where you park, poor visibility at night so end up treading in it all getting in &amp;amp; out of car, been building up for at least two months&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9040700.0.jpeg?06b0a5f7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Walsingham Walk, Lessness Heath, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9040700&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning and litter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9040700</guid>
-<pubDate>Tue, 03 Mar 2026 21:28:30 +0000</pubDate>
-<georss:point>51.479708 0.14964</georss:point>
 </item>
 </channel>
 </rss>
