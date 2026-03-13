@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -15,6 +15,177 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
 <item>
+<title>Fly tipping, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103344</link>
+<description>Someone has dumped chair and a bench&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103344.0.jpeg?4e1842c1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Alexandra Grove, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103344&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103344</guid>
+<pubDate>Fri, 13 Mar 2026 17:46:17 +0000</pubDate>
+<georss:point>51.56705 -0.096915</georss:point>
+</item>
+<item>
+<title>Graffiti, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103341</link>
+<description>Graffiti&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103341.0.jpeg?a74c65b8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Rochester Way, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103341&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103341</guid>
+<pubDate>Fri, 13 Mar 2026 17:45:38 +0000</pubDate>
+<georss:point>51.464323 0.034593</georss:point>
+</item>
+<item>
+<title>Flytipped cardboard, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103338</link>
+<description>At the start of Bramblebury Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103338.0.jpeg?1bf45c7a&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Durham Rise, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103338&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103338</guid>
+<pubDate>Fri, 13 Mar 2026 17:44:50 +0000</pubDate>
+<georss:point>51.485205 0.07965</georss:point>
+</item>
+<item>
+<title>Gallon close, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103318</link>
+<description>The rd part of gallon close from the entrance from Woolwich rd up until the end of the close by the green between halo n and Hickin closes has pot holes and broken tarmac . It&amp;#39;s making the whole rd very uneven .&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gallon Close, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103318&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103318</guid>
+<pubDate>Fri, 13 Mar 2026 17:40:58 +0000</pubDate>
+<georss:point>51.488277 0.036058</georss:point>
+</item>
+<item>
+<title>Double yellow lines blips blocking driveway, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103309</link>
+<description>Blocking drive double yellow blips&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kyverdale Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103309&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Illegal Parking</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103309</guid>
+<pubDate>Fri, 13 Mar 2026 17:38:10 +0000</pubDate>
+<georss:point>51.564578 -0.068147</georss:point>
+</item>
+<item>
+<title>No mot or tax, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103311</link>
+<description>This as been reported twice now and still nothing done about it it as no mot ran out in September 2025 no tax either parked in residents parking bay please remove ASAP thanks&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103311.0.jpeg?8f1b328e&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Chilver Street, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103311</guid>
+<pubDate>Fri, 13 Mar 2026 17:38:09 +0000</pubDate>
+<georss:point>51.487126 0.013877</georss:point>
+</item>
+<item>
+<title>Flytipped Fridge Freezer, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103285</link>
+<description>This was ghis afternoon the the middle of avenue Foad. Back now on the pavement for safety.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103285.0.jpeg?0e368e43&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Avenue Road, Penge, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103285&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103285</guid>
+<pubDate>Fri, 13 Mar 2026 17:33:20 +0000</pubDate>
+<georss:point>51.410512 -0.054609</georss:point>
+</item>
+<item>
+<title>Rubbish dumped, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103274</link>
+<description>Rubbish dumped by public bin yet again&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103274.0.jpeg?d80faad4&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charlton Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103274&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103274</guid>
+<pubDate>Fri, 13 Mar 2026 17:31:44 +0000</pubDate>
+<georss:point>51.479219 0.023615</georss:point>
+</item>
+<item>
+<title>The blue car constantly parking the wrong way in a one way street., 13th March</title>
+<link>https://www.fixmystreet.com/report/9103243</link>
+<description>The blue car seen on the photos constantly parking opposite of the one way traffic.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103243.0.jpeg?10c09bde&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Katherine Gardens, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103243&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Roads/highways</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103243</guid>
+<pubDate>Fri, 13 Mar 2026 17:27:06 +0000</pubDate>
+<georss:point>51.456449 0.039179</georss:point>
+</item>
+<item>
+<title>Bike blocking pavement, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103228</link>
+<description>Lime bike in middle of pavement outside 65 Dressington Avenue&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Dressington Avenue, Ladywell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103228&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103228</guid>
+<pubDate>Fri, 13 Mar 2026 17:24:41 +0000</pubDate>
+<georss:point>51.452158 -0.025838</georss:point>
+</item>
+<item>
+<title>Trip Hazard, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103197</link>
+<description>Tree roots have lifted tarmac on pavement causing trip hazard ( I know I tripped )&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103197.0.jpeg?e897a69f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Beaumont Road, Poverest, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103197&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavement Defect</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103197</guid>
+<pubDate>Fri, 13 Mar 2026 17:20:50 +0000</pubDate>
+<georss:point>51.385905 0.077836</georss:point>
+</item>
+<item>
+<title>Work done to fill sections of the pavement with tarmac, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103171</link>
+<description>I am writing to express my concern regarding the recent pavement repairs carried out in my area. The work done to fill sections of the pavement with tarmac is, quite frankly, appalling. The finish is uneven and poorly matched to the surrounding surface, leaving the pavement looking untidy and potentially hazardous for pedestrians. This level of workmanship is disappointing and does not reflect the standard that residents should expect from maintenance work.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103171.0.jpeg?aa32ed0a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Rojack Road, Forest Hill, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103171&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Roads/Highways</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103171</guid>
+<pubDate>Fri, 13 Mar 2026 17:15:20 +0000</pubDate>
+<georss:point>51.441788 -0.050518</georss:point>
+</item>
+<item>
+<title>A vehicle belonging to the residents of 83 Malthouse Drive is regularly parking on the grass verge., 13th March</title>
+<link>https://www.fixmystreet.com/report/9103135</link>
+<description>A vehicle belonging to the residents of 83 Malthouse Drive is regularly parking on the grass verge opposite the property. This happens almost every day and is causing damage to the grass verge. Please could the council investigate this and consider installing bollards or other measures to prevent vehicles from driving onto the grass.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103135.0.jpeg?ed4527c2&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): South Stifford, Grays&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103135&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Car parking</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103135</guid>
+<pubDate>Fri, 13 Mar 2026 17:09:03 +0000</pubDate>
+<georss:point>51.47685 0.31375</georss:point>
+</item>
+<item>
+<title>Flytip alley 262 Chipperfield Road, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103131</link>
+<description>Significant amount of domestic waste dumped in the alley to 262 Chipperfield Road, it has been moved from 257 Chipperfield Road, opposite gate&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103131.0.jpeg?48d3ea96&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 246-260, Chipperfield Road, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103131&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytip</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103131</guid>
+<pubDate>Fri, 13 Mar 2026 17:08:30 +0000</pubDate>
+<georss:point>51.400083 0.103545</georss:point>
+</item>
+<item>
+<title>Missing barrier o/s Long Lane Pasture N3, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103104</link>
+<description>Recent contractors who did work on the trees further up the footpath recently have removed a barrier which prevents motorcyclists using the footpath. This was over 2 weeks ago, and it has now become a free for all. They have also left a hole in the pavement and other discarded signage.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103104.0.jpeg?8750da7f&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): North Circular Road, Finchley, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103104&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Other</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103104</guid>
+<pubDate>Fri, 13 Mar 2026 17:03:53 +0000</pubDate>
+<georss:point>51.597092 -0.180255</georss:point>
+</item>
+<item>
+<title>N1 7qh linale hse bins, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103051</link>
+<description>Bins have not bern empited since 11/3/2026 now 13/3/2026 starting to overflow Weekend approaching plus House Furniture by Bin Area&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103051.0.jpeg?41c038b8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Murray Grove, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103051&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Overflowing bin</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103051</guid>
+<pubDate>Fri, 13 Mar 2026 16:56:47 +0000</pubDate>
+<georss:point>51.530947 -0.091065</georss:point>
+</item>
+<item>
+<title>Bikes blocking pavement, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103048</link>
+<description>2 Lime bikes completely blocking pavement outside 27 Dressington Avenue&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Dressington Avenue, Ladywell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103048&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103048</guid>
+<pubDate>Fri, 13 Mar 2026 16:56:42 +0000</pubDate>
+<georss:point>51.452158 -0.025838</georss:point>
+</item>
+<item>
+<title>Bike blocking pavement, 13th March</title>
+<link>https://www.fixmystreet.com/report/9103034</link>
+<description>Lime bike completely blocking pavement outside 63 Dressington Avenue&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Dressington Avenue, Ladywell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103034&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9103034</guid>
+<pubDate>Fri, 13 Mar 2026 16:56:31 +0000</pubDate>
+<georss:point>51.452158 -0.025838</georss:point>
+</item>
+<item>
+<title>Pothole, 13th March</title>
+<link>https://www.fixmystreet.com/report/9102214</link>
+<description>Deep pothole in middle of road Damage to cars&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 88, Crofton Avenue, Blendon, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102214&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Damaged road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9102214</guid>
+<pubDate>Fri, 13 Mar 2026 16:55:17 +0000</pubDate>
+<georss:point>51.443362 0.123864</georss:point>
+</item>
+<item>
 <title>Graffiti on rear of property, 13th March</title>
 <link>https://www.fixmystreet.com/report/9103029</link>
 <description>There’s graffiti on the rear of one of the houses opposite the way - they may not be aware but they’re on the other side of the railway and not known to us.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103029.0.jpeg?af45dedc&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Northumberland Avenue, Falconwood, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103029&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
@@ -22,177 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9103029</guid>
 <pubDate>Fri, 13 Mar 2026 16:52:07 +0000</pubDate>
 <georss:point>51.460902 0.089396</georss:point>
-</item>
-<item>
-<title>Dog mess black bags by 97and 95 Lyndon Avenue dogs mess, 13th March</title>
-<link>https://www.fixmystreet.com/report/9103027</link>
-<description>There are many dogs&amp;#39; mess bags along Lyndon Avenue that need clearing asap. This was reported last week and it has still not been cleared but no reference number.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 97, Lyndon Avenue, Blackfen, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103027&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Footway / carriageway</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9103027</guid>
-<pubDate>Fri, 13 Mar 2026 16:51:40 +0000</pubDate>
-<georss:point>51.452741 0.097746</georss:point>
-</item>
-<item>
-<title>29 Brondesbury villas, 13th March</title>
-<link>https://www.fixmystreet.com/report/9103018</link>
-<description>Rubbish on tree verge&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9103018.0.jpeg?f191e56d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brondesbury Villas, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9103018&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning - Street needs sweeping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9103018</guid>
-<pubDate>Fri, 13 Mar 2026 16:49:25 +0000</pubDate>
-<georss:point>51.536944 -0.195493</georss:point>
-</item>
-<item>
-<title>Weston house Winchester sve, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102995</link>
-<description>This are is becoming a dumping ground and what happens is one person puts something there and more then dump there. There should be a sign saying don’t do it.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102995.0.jpeg?5ef05713&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Winchester Avenue, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102995&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Medium - Up to medium size van load (Estates)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102995</guid>
-<pubDate>Fri, 13 Mar 2026 16:46:11 +0000</pubDate>
-<georss:point>51.54141 -0.208015</georss:point>
-</item>
-<item>
-<title>Waste Bins and Rats Near Residential Entrance, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102971</link>
-<description>Am writing to make a complaint regarding a serious issue outside our residential building.&amp;#10;&amp;#10;Next to the entrance gate of our residential flats, there is a pub that keeps its rubbish and food waste bins directly beside the entrance used by residents. Unfortunately, these bins are often not placed properly and are frequently left overflowing or positioned in a way that blocks or restricts access to the gate.&amp;#10;&amp;#10;Because of the large amount of food waste and the way the bins are left outside, there has been a growing problem with rats around the entrance area. This creates an unpleasant environment and raises serious concerns about hygiene, health, and safety for residents who need to enter and leave the building every day.&amp;#10;&amp;#10;We would like the council to investigate this issue and ensure that the pub manages its waste properly. The bins should be stored in an appropriate place and handled in a way that prevents vermin and keeps the entrance clear for residents.&amp;#10;&amp;#10;I would appreciate it if this matter could be looked into as soon as possible.&amp;#10;&amp;#10;Thank you for your attention.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102971.0.jpeg?f9e1159c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Walters Yard, Plaistow, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102971&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Public Right of Way footpath</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102971</guid>
-<pubDate>Fri, 13 Mar 2026 16:44:28 +0000</pubDate>
-<georss:point>51.40672 0.013263</georss:point>
-</item>
-<item>
-<title>Broken playground equipment, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102963</link>
-<description>The zip line in the childrens playground in ladywell park is broken and cannot be used&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102963.0.jpeg?5ea3cdc1&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Malyons Road, Ladywell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102963&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Parks &amp; Green Spaces</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102963</guid>
-<pubDate>Fri, 13 Mar 2026 16:41:48 +0000</pubDate>
-<georss:point>51.452444 -0.021429</georss:point>
-</item>
-<item>
-<title>Bike, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102926</link>
-<description>This bike has been here for years and the tyres have gone flat during this time. Believe it used to belong to the homeless guy who used to live in old farm park and had bikes all over the borough. This hasn&amp;#39;t moved in years&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102926.0.jpeg?5cee4abc&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 111, Station Road, Longlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102926&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Forest bike</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102926</guid>
-<pubDate>Fri, 13 Mar 2026 16:38:24 +0000</pubDate>
-<georss:point>51.434179 0.102387</georss:point>
-</item>
-<item>
-<title>Speed limit sign knocked down, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102930</link>
-<description>The 20mph speed limit sign has been knocked down.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102930.0.jpeg?3cc544d3&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 108, Alleyn Road, Dulwich, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102930&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road traffic signs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102930</guid>
-<pubDate>Fri, 13 Mar 2026 16:38:08 +0000</pubDate>
-<georss:point>51.428892 -0.086553</georss:point>
-</item>
-<item>
-<title>Papers all over pavement, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102913</link>
-<description>Papers all over pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102913.0.jpeg?a056baaf&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 12, Red Post Hill, Dulwich Village, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102913&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street Litter Picking</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102913</guid>
-<pubDate>Fri, 13 Mar 2026 16:36:01 +0000</pubDate>
-<georss:point>51.453959 -0.088372</georss:point>
-</item>
-<item>
-<title>Graffiti and flyposting needs to be removed please, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102901</link>
-<description>.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102901.0.jpeg?a977becb&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Court Road, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102901&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102901</guid>
-<pubDate>Fri, 13 Mar 2026 16:35:01 +0000</pubDate>
-<georss:point>51.439192 0.050895</georss:point>
-</item>
-<item>
-<title>Dog fouling, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102889</link>
-<description>I have already reported that there is a serious issue on this street but the council marks it as &amp;quot;Solved&amp;quot;. This is shameful because you are not doing anything and this has to be fixed because we&amp;#39;ve already endured over a year of dog poo on this street. The council just got tens of millions in funding but then ignores an issue like this? Of course, it&amp;#39;s not in a &amp;quot;nice street&amp;quot; next to council estates so who cares?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102889.0.jpeg?b9e304c1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Floyd Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102889&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dog Fouling</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102889</guid>
-<pubDate>Fri, 13 Mar 2026 16:34:19 +0000</pubDate>
-<georss:point>51.486637 0.033985</georss:point>
-</item>
-<item>
-<title>I will keep on reporting this until its solves, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102890</link>
-<description>I have already reported that there is a serious issue on this street but the council marks it as &amp;quot;Solved&amp;quot;. This is shameful because you are not doing anything and this has to be fixed because we&amp;#39;ve already endured over a year of dog poo on this street. The council just got tens of millions in funding but then ignores an issue like this? Of course, it&amp;#39;s not in a &amp;quot;nice street&amp;quot; next to council estates so who cares?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102890.0.jpeg?b9e304c1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Floyd Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102890&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dog Fouling</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102890</guid>
-<pubDate>Fri, 13 Mar 2026 16:33:51 +0000</pubDate>
-<georss:point>51.486718 0.033813</georss:point>
-</item>
-<item>
-<title>Dog poop on a daily basis for over a year, council not doing anything, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102887</link>
-<description>I have already reported that there is a serious issue on this street but the council marks it as &amp;quot;Solved&amp;quot;. This is shameful because you are not doing anything and this has to be fixed because we&amp;#39;ve already endured over a year of dog poo on this street. The council just got tens of millions in funding but then ignores an issue like this? Of course, it&amp;#39;s not in a &amp;quot;nice street&amp;quot; next to council estates so who cares?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102887.0.jpeg?bd4e4821&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Valley Grove, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102887&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dog Fouling</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102887</guid>
-<pubDate>Fri, 13 Mar 2026 16:33:44 +0000</pubDate>
-<georss:point>51.486341 0.033931</georss:point>
-</item>
-<item>
-<title>Dog poop everywhere, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102884</link>
-<description>I have already reported that there is a serious issue on this street but the council marks it as &amp;quot;Solved&amp;quot;. This is shameful because you are not doing anything and this has to be fixed because we&amp;#39;ve already endured over a year of dog poo on this street. The council just got tens of millions in funding but then ignores an issue like this? Of course, it&amp;#39;s not in a &amp;quot;nice street&amp;quot; next to council estates so who cares?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102884.0.jpeg?b9e304c1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Floyd Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102884&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102884</guid>
-<pubDate>Fri, 13 Mar 2026 16:33:36 +0000</pubDate>
-<georss:point>51.486718 0.033813</georss:point>
-</item>
-<item>
-<title>Fly-tipping, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102875</link>
-<description>The mattress was thrown out onto the street about a month ago.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102875.0.jpeg?ba55f7b4&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Lansdowne Mews, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102875&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102875</guid>
-<pubDate>Fri, 13 Mar 2026 16:31:19 +0000</pubDate>
-<georss:point>51.485545 0.038109</georss:point>
-</item>
-<item>
-<title>Extensive broken slabs. Trip hazards, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102874</link>
-<description>Extensive broken slabs outside 33/35/37 shuttlemead. Driveway ramps too high and damages cars. Over 30ml raised trip hazards. Otherside of road pavement was resurfaced years ago and our side left to crumble.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102874.0.jpeg?8ef52e1c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Shuttlemead, Bexley, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102874&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Damaged pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102874</guid>
-<pubDate>Fri, 13 Mar 2026 16:31:09 +0000</pubDate>
-<georss:point>51.444763 0.138723</georss:point>
-</item>
-<item>
-<title>No fishing sign in danson park, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102834</link>
-<description>The no fishing sign in danson park by the lake has been removed and there is around 7 youths fishing there right now. please can this be looked into urgently.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Danson Lane, Welling, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102834&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Signs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102834</guid>
-<pubDate>Fri, 13 Mar 2026 16:28:05 +0000</pubDate>
-<georss:point>51.45633 0.112567</georss:point>
-</item>
-<item>
-<title>Lifted paving very dangerous, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102789</link>
-<description>The paving slab has lifted causing severe trip hazard&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102789.0.jpeg?34a02318&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Mainridge Road, Chislehurst&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102789&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pavements/Footpaths Repairs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102789</guid>
-<pubDate>Fri, 13 Mar 2026 16:23:23 +0000</pubDate>
-<georss:point>51.425161 0.062177</georss:point>
-</item>
-<item>
-<title>Lots of big potholes, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102770</link>
-<description>Lots of big potholes&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9102770.0.jpeg?616067bb&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Kent House Lane, New Beckenham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102770&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Defect</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102770</guid>
-<pubDate>Fri, 13 Mar 2026 16:17:16 +0000</pubDate>
-<georss:point>51.422216 -0.039705</georss:point>
-</item>
-<item>
-<title>Close to childrens play area, 13th March</title>
-<link>https://www.fixmystreet.com/report/9102762</link>
-<description>A tree has snapped in half and fallen over.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Dartmouth Park Hill, Archway, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9102762&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dead/Diseased tree</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9102762</guid>
-<pubDate>Fri, 13 Mar 2026 16:15:59 +0000</pubDate>
-<georss:point>51.568547 -0.143005</georss:point>
 </item>
 </channel>
 </rss>
