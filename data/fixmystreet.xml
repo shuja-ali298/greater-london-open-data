@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Dumped Items (Again) On Seal Street, 15th March</title>
+<link>https://www.fixmystreet.com/report/9108560</link>
+<description>Items have been dumped at the end of Seal Street again below the no dumping sign. This is a constant problem in this location.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9108560.0.jpeg?b80ed9e3&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): April Street, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9108560&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9108560</guid>
+<pubDate>Sun, 15 Mar 2026 05:05:02 +0000</pubDate>
+<georss:point>51.553234 -0.071081</georss:point>
+</item>
 <item>
 <title>Deep pothole (roughly 7 inches deep) On the crossing/speedbump outside Woodknoll Drive, 15th March</title>
 <link>https://www.fixmystreet.com/report/9108522</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9108392</guid>
 <pubDate>Sat, 14 Mar 2026 22:55:18 +0000</pubDate>
 <georss:point>51.39765 -0.037152</georss:point>
-</item>
-<item>
-<title>Temporary traffic lights, 14th March</title>
-<link>https://www.fixmystreet.com/report/9108390</link>
-<description>The temporary traffic lights cannot be seen from the stop line causing cars to remain at the lights on green and constant road rage. Please either relocate the lights, introduce secondary lights, or relocate the stop line.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charlton Church Lane, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9108390&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Roads/highways</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9108390</guid>
-<pubDate>Sat, 14 Mar 2026 22:55:02 +0000</pubDate>
-<georss:point>51.487659 0.031266</georss:point>
 </item>
 </channel>
 </rss>
