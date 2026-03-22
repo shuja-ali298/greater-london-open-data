@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Fly tipping, 22nd March</title>
+<link>https://www.fixmystreet.com/report/9161940</link>
+<description>Same people dumping their rubbish at the tree again, nothing gets done, some one needs to go through the bags to identify who it is and stop them&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9161940.0.jpeg?31565511&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Titchfield Road, Enfield&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9161940&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9161940</guid>
+<pubDate>Sun, 22 Mar 2026 03:40:50 +0000</pubDate>
+<georss:point>51.67032 -0.034061</georss:point>
+</item>
 <item>
 <title>Multiple potholes big and small!, 22nd March</title>
 <link>https://www.fixmystreet.com/report/9161938</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9161702</guid>
 <pubDate>Sat, 21 Mar 2026 22:13:48 +0000</pubDate>
 <georss:point>51.462056 -0.070301</georss:point>
-</item>
-<item>
-<title>Large Unwanted Mattress and Other Items Dumped on Pavement, 21st March</title>
-<link>https://www.fixmystreet.com/report/9161255</link>
-<description>A large unwanted mattress along with several other items have been left dumped on the pavement. Can the local team please clear them away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9161255.0.jpeg?11692cf4&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Waverley Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9161255&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9161255</guid>
-<pubDate>Sat, 21 Mar 2026 22:01:45 +0000</pubDate>
-<georss:point>51.484752 0.081428</georss:point>
 </item>
 </channel>
 </rss>
