@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:atom="http://www.w3.org/2005/Atom"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,114 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Graffiti, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204625</link>
+<description>Rose Pharmacy. Remove graffiti from shutter&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204625.0.jpeg?a8cc41b1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204625&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204625</guid>
+<pubDate>Sat, 28 Mar 2026 21:38:19 +0000</pubDate>
+<georss:point>51.480863 -0.021823</georss:point>
+</item>
+<item>
+<title>Grafgiti, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204622</link>
+<description>Creek Road dental practice 20 Creek Road Remove graffiti from shutter&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204622.0.jpeg?59182376&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204622&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204622</guid>
+<pubDate>Sat, 28 Mar 2026 21:36:40 +0000</pubDate>
+<georss:point>51.480863 -0.021823</georss:point>
+</item>
+<item>
+<title>Graffiti, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204605</link>
+<description>Mama Nasha 16-18 Creek Road Remove graffiti from shutter&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204605.0.jpeg?36c92afe&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204605&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204605</guid>
+<pubDate>Sat, 28 Mar 2026 21:26:42 +0000</pubDate>
+<georss:point>51.480863 -0.021823</georss:point>
+</item>
+<item>
+<title>Graffiti, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204598</link>
+<description>Margaret McMilliam Halls of residence. Remove graffiti from wall to block H near Sainsburys&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204598.0.jpeg?8859f17c&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204598&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204598</guid>
+<pubDate>Sat, 28 Mar 2026 21:19:46 +0000</pubDate>
+<georss:point>51.48094 -0.021553</georss:point>
+</item>
+<item>
+<title>Lime bikes, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204592</link>
+<description>The lime bikes are constantly dumped here, at some point i have counted more than 20 bikes, as soon as they are cleared they begin building up again, this happens on a daily basis it is right by a play park and it obstructs a public footpath. SOMETHING HAS TO BE DONE TO PERMANENTLY PREVENT THIS HAPPENING&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204592.0.jpeg?16204967&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Welland Street, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204592&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204592</guid>
+<pubDate>Sat, 28 Mar 2026 21:18:09 +0000</pubDate>
+<georss:point>51.482218 -0.012094</georss:point>
+</item>
+<item>
+<title>Flypostering, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204585</link>
+<description>Creek Riad Remove flypostering from Lamppost CR001&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204585.0.jpeg?a583e3fa&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204585&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204585</guid>
+<pubDate>Sat, 28 Mar 2026 21:14:47 +0000</pubDate>
+<georss:point>51.480949 -0.023076</georss:point>
+</item>
+<item>
+<title>Bunch of rubbish dumped in corner by fence, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204584</link>
+<description>This rubbish has been there for the past week or so&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204584.0.jpeg?89baec1d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Camelot Close, Thamesmead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204584&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204584</guid>
+<pubDate>Sat, 28 Mar 2026 21:13:59 +0000</pubDate>
+<georss:point>51.496666 0.081353</georss:point>
+</item>
+<item>
+<title>Sandy Hill Road SE18, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204578</link>
+<description>Blocked street gullies outside numbers 11 and 30 Sandy hill Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204578.0.jpeg?5cca911f&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Sandy Hill Road, Woolwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204578&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Blocked Roadside Gully</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204578</guid>
+<pubDate>Sat, 28 Mar 2026 21:11:27 +0000</pubDate>
+<georss:point>51.48633 0.067687</georss:point>
+</item>
+<item>
+<title>Flypostering, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204579</link>
+<description>McMilliam Street by Communal Allotment. Please clear flypostering from post&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204579.0.jpeg?d40954e5&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Armada Street, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204579&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204579</guid>
+<pubDate>Sat, 28 Mar 2026 21:11:10 +0000</pubDate>
+<georss:point>51.481433 -0.024755</georss:point>
+</item>
+<item>
+<title>Litter bin bag, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204566</link>
+<description>Outsidd Armsda Court. Litter bin bag by zebra crossing requires emptying&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204566.0.jpeg?af6cb8c2&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Creek Road, Deptford&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204566&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Litter Bin</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204566</guid>
+<pubDate>Sat, 28 Mar 2026 21:03:08 +0000</pubDate>
+<georss:point>51.481364 -0.025387</georss:point>
+</item>
+<item>
+<title>In front of the building of Brook wood House, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204561</link>
+<description>Fly tipping in front of the Brook Wood house&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204561.0.jpeg?42f47b28&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 172, Queen&#39;s Road, Nunhead, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204561&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204561</guid>
+<pubDate>Sat, 28 Mar 2026 20:57:09 +0000</pubDate>
+<georss:point>51.472696 -0.054036</georss:point>
+</item>
+<item>
+<title>Dangerous tree, 28th March</title>
+<link>https://www.fixmystreet.com/report/9204553</link>
+<description>A very tall tree at number 86 Petersham Drive the roots are travelling under the houses and raising the door steps, the branches are blocking view and blocking satellite signals&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 91, Petersham Drive, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204553&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Private Tree overhanging highway</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9204553</guid>
+<pubDate>Sat, 28 Mar 2026 20:49:33 +0000</pubDate>
+<georss:point>51.401253 0.096629</georss:point>
+</item>
 <item>
 <title>Fridge, 28th March</title>
 <link>https://www.fixmystreet.com/report/9204532</link>
@@ -85,114 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9204413</guid>
 <pubDate>Sat, 28 Mar 2026 19:32:35 +0000</pubDate>
 <georss:point>51.470746 0.028375</georss:point>
-</item>
-<item>
-<title>3 young people just dumped furniture, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204386</link>
-<description>Three young people dumped furniture on the corner of Waterdale Road and Woodbrook and then walked off down Woodbrook Road. I did speak to them politely and tell them it was illegal. This is a continual issue on this corner.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204386.0.jpeg?010799e9&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Waterdale Road, Abbey Wood&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204386&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204386</guid>
-<pubDate>Sat, 28 Mar 2026 19:24:54 +0000</pubDate>
-<georss:point>51.479747 0.105041</georss:point>
-</item>
-<item>
-<title>Parking Permit Signs Vandalised on Lambourne Grove, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204358</link>
-<description>The permit‑holder parking sign on [Lambourne Grove] has been spray‑painted over, completely obscuring the restriction. Non‑permit holders are now parking here because the sign cannot be read. We pay for a permit, but enforcement is being undermined. Please arrange for the sign to be cleaned or replaced. This issue has been present for at least one month (possibly longer).&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204358.0.jpeg?af8f1b64&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 15, Lambourne Grove, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204358&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204358</guid>
-<pubDate>Sat, 28 Mar 2026 19:16:35 +0000</pubDate>
-<georss:point>51.489019 -0.048616</georss:point>
-</item>
-<item>
-<title>Graffiti in play park, 28th March</title>
-<link>https://www.fixmystreet.com/report/9203880</link>
-<description>Offensive graffiti in play park&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9203880.0.jpeg?c42f542a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Falconwood Parade, Falconwood, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9203880&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9203880</guid>
-<pubDate>Sat, 28 Mar 2026 19:11:26 +0000</pubDate>
-<georss:point>51.456578 0.093901</georss:point>
-</item>
-<item>
-<title>Road markings worn, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204314</link>
-<description>The road markings around Southgate circus including the give way at exit from the Bourne and the zebra crossings on the circus have become faint.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Southgate Circus, Southgate&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204314&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road markings</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204314</guid>
-<pubDate>Sat, 28 Mar 2026 19:04:33 +0000</pubDate>
-<georss:point>51.632492 -0.127296</georss:point>
-</item>
-<item>
-<title>Appears to be a dead fox in a binbag, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204305</link>
-<description>Dead animal in a binbag&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Adamsrill Road, Perry Vale, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204305&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204305</guid>
-<pubDate>Sat, 28 Mar 2026 18:59:40 +0000</pubDate>
-<georss:point>51.429619 -0.04409</georss:point>
-</item>
-<item>
-<title>Makeshift structure near Banister house, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204302</link>
-<description>I would like to report a build-up of waste and a makeshift structure on a patch of grass adjacent to Banister house.&amp;#10;&amp;#10;Over time, various items including bed frames and other discarded materials have accumulated and now form a semi-permanent structure&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204302.0.jpeg?f2f757bf&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Homerton Row, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204302&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204302</guid>
-<pubDate>Sat, 28 Mar 2026 18:58:54 +0000</pubDate>
-<georss:point>51.549251 -0.046794</georss:point>
-</item>
-<item>
-<title>Cargo bike blocking EV charging point, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204284</link>
-<description>This cargo bike belongs to 80 Glenarm Road. They chain it to the lamppost outside their house. It blocks the EV charging point and it could damage any cars. This has been reported before. I am unable to charge my car when this bike is here.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204284.0.jpeg?e61e880f&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Glenarm Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204284&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Highways Obstructions</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204284</guid>
-<pubDate>Sat, 28 Mar 2026 18:54:49 +0000</pubDate>
-<georss:point>51.552945 -0.047483</georss:point>
-</item>
-<item>
-<title>Rubbish on the street, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204282</link>
-<description>We have had rubbish dumped on our street for the last 6 months. Someone has been dumping clothes, garden waste and furniture. Can you please put a warning sign to inform this is not a dumping site.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204282.0.jpeg?84611db7&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Primrose Square, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204282&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204282</guid>
-<pubDate>Sat, 28 Mar 2026 18:53:14 +0000</pubDate>
-<georss:point>51.538824 -0.049351</georss:point>
-</item>
-<item>
-<title>Overflowing cardboard rubbish, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204278</link>
-<description>I work at Stoke Newington Fire Station and we got called here for an incident and noticed significant fire loading outside this property.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204278.0.jpeg?709d0160&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Osbaldeston Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204278&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overflowing bin</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204278</guid>
-<pubDate>Sat, 28 Mar 2026 18:52:09 +0000</pubDate>
-<georss:point>51.563011 -0.068055</georss:point>
-</item>
-<item>
-<title>E-bike on pavement, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204271</link>
-<description>E-bike obstructing the footpath&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204271.0.jpeg?09b932fa&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Ladywell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204271&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Lime bike or scooter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204271</guid>
-<pubDate>Sat, 28 Mar 2026 18:50:16 +0000</pubDate>
-<georss:point>51.444754 -0.024178</georss:point>
-</item>
-<item>
-<title>Cracked pavement slab, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204247</link>
-<description>Cracked slab, lifted on one end which could be a trip hazard or cause if fallen upon.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9204247.0.jpeg?1d976725&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Sandhurst Road, Longlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204247&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Damaged pavement</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204247</guid>
-<pubDate>Sat, 28 Mar 2026 18:43:20 +0000</pubDate>
-<georss:point>51.429681 0.098077</georss:point>
-</item>
-<item>
-<title>Rubbish dumped, 28th March</title>
-<link>https://www.fixmystreet.com/report/9204233</link>
-<description>Rubbish has been dumped to the side of my house. This keeps happening and make the street l, our house look so untidy.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): East Bank, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9204233&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping on Street</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9204233</guid>
-<pubDate>Sat, 28 Mar 2026 18:38:53 +0000</pubDate>
-<georss:point>51.572834 -0.077241</georss:point>
 </item>
 </channel>
 </rss>
