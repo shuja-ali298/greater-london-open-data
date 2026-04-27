@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,123 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Large Amount of Rubbish Dumped on Path, 27th April</title>
+<link>https://www.fixmystreet.com/report/9358799</link>
+<description>A large amount of rubbish (including a mouldy mattress) has been left dumped on the path. Can the local team please clear it away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9358799.0.jpeg?10db0642&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Ancona Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9358799&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9358799</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:54 +0100</pubDate>
+<georss:point>51.488856 0.086449</georss:point>
+</item>
+<item>
+<title>Unwanted Fridge-Freezer Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9358857</link>
+<description>An unwanted fridge-freezer has been left dumped on the pavement outside number 80. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9358857.0.jpeg?18555449&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9358857&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9358857</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:50 +0100</pubDate>
+<georss:point>51.486909 0.084339</georss:point>
+</item>
+<item>
+<title>Bags of Rubbish and Unwanted Heater Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9358951</link>
+<description>Several bags of rubbish and an unwanted heater have been left dumped on the pavement outside number 106. Can the local team please clear it away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9358951.0.jpeg?1fcbcb10&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9358951&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9358951</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:44 +0100</pubDate>
+<georss:point>51.486323 0.084089</georss:point>
+</item>
+<item>
+<title>Unwanted Fencing Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9363984</link>
+<description>A pile of unwanted fencing has been left dumped on the pavement. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9363984.0.jpeg?02794ce0&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Glyndon Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9363984&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9363984</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:37 +0100</pubDate>
+<georss:point>51.487812 0.082281</georss:point>
+</item>
+<item>
+<title>Broken Furniture Dumped on Turfed Area, 27th April</title>
+<link>https://www.fixmystreet.com/report/9363997</link>
+<description>An item of broken furniture(?) has been left dumped on the turfed area (behind an abandoned Blue-Top wheelie bin). Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9363997.0.jpeg?07167d05&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Glyndon Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9363997&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9363997</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:32 +0100</pubDate>
+<georss:point>51.488096 0.081869</georss:point>
+</item>
+<item>
+<title>Multiple Items of Rubbish Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364012</link>
+<description>Multiple items of rubbish have been left dumped on the pavement outside number 75/75a. Can the local team please clear it away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364012.0.jpeg?49432725&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Waverley Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364012&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364012</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:26 +0100</pubDate>
+<georss:point>51.485092 0.08161</georss:point>
+</item>
+<item>
+<title>Rubbish Dumped and Large Tree Branch Obstructing Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364042</link>
+<description>Rubbish has been dumped on the pavement and a large tree branch is obstructing the pavement. Can the local team please clear it away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364042.0.jpeg?9115b9af&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Majendie Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364042&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364042</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:21 +0100</pubDate>
+<georss:point>51.485651 0.082052</georss:point>
+</item>
+<item>
+<title>Unwanted Furniture Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364051</link>
+<description>An item of unwanted furniture has been left dumped on the pavement outside number 46. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364051.0.jpeg?221cc309&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Majendie Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364051&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364051</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:16 +0100</pubDate>
+<georss:point>51.485241 0.082764</georss:point>
+</item>
+<item>
+<title>Unwanted Metal Frame Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364063</link>
+<description>An unwanted rusty metal frame has been left dumped on the pavement outside number 50. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364063.0.jpeg?99ddc574&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Majendie Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364063&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364063</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:10 +0100</pubDate>
+<georss:point>51.485219 0.082895</georss:point>
+</item>
+<item>
+<title>Unwanted Carpet Dumped on Pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364078</link>
+<description>A large length of unwanted carpet has been left dumped on the pavement. Can the local team please remove it. Thank you,&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364078.0.jpeg?b79608a3&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Majendie Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364078&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364078</guid>
+<pubDate>Mon, 27 Apr 2026 23:45:05 +0100</pubDate>
+<georss:point>51.485258 0.083248</georss:point>
+</item>
+<item>
+<title>Litter on Tabard street, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364245</link>
+<description>There are food packaging, plastic bottles, plastic food containers, cans and food waste on the pavement and road on Tabard Street. It has been there two days.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364245.0.jpeg?4e845b3e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tabard Street, The Borough, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364245&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street Litter Picking</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364245</guid>
+<pubDate>Mon, 27 Apr 2026 23:30:57 +0100</pubDate>
+<georss:point>51.497432 -0.088553</georss:point>
+</item>
+<item>
+<title>Bike in middle of pavement, 27th April</title>
+<link>https://www.fixmystreet.com/report/9362002</link>
+<description>Lime bike on middle of pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9362002.0.jpeg?3e35d04a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 170, Lower Road, Rotherhithe, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9362002&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9362002</guid>
+<pubDate>Mon, 27 Apr 2026 23:30:15 +0100</pubDate>
+<georss:point>51.492445 -0.045832</georss:point>
+</item>
+<item>
+<title>Lime bikes parked outside designated area, 27th April</title>
+<link>https://www.fixmystreet.com/report/9364217</link>
+<description>Lime bikes are parked not in their designated area&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364217.0.jpeg?bde5c29e&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Mentmore Terrace, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364217&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9364217</guid>
+<pubDate>Mon, 27 Apr 2026 23:08:58 +0100</pubDate>
+<georss:point>51.538993 -0.057925</georss:point>
+</item>
 <item>
 <title>Fly tipped black bags of used clothes, 27th April</title>
 <link>https://www.fixmystreet.com/report/9364142</link>
@@ -76,123 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9364111</guid>
 <pubDate>Mon, 27 Apr 2026 22:38:01 +0100</pubDate>
 <georss:point>51.464886 -0.118827</georss:point>
-</item>
-<item>
-<title>Abandoned vehicle in resident car park, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364108</link>
-<description>Abandoned vehicle in resident car park entry/exit for others - registered as SORN but on public land&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364108.0.jpeg?eae302be&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Elderfield Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364108&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364108</guid>
-<pubDate>Mon, 27 Apr 2026 22:35:49 +0100</pubDate>
-<georss:point>51.553812 -0.047498</georss:point>
-</item>
-<item>
-<title>Littered street, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364099</link>
-<description>Hargwyne street littered with rubbish&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364099.0.jpeg?84b47ccb&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hargwyne Street, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364099&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street cleaning</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364099</guid>
-<pubDate>Mon, 27 Apr 2026 22:32:38 +0100</pubDate>
-<georss:point>51.464763 -0.120742</georss:point>
-</item>
-<item>
-<title>Paint pot, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364090</link>
-<description>Paint pot&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364090.0.jpeg?6ca0ff8c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Hargwyne Street, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364090&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364090</guid>
-<pubDate>Mon, 27 Apr 2026 22:32:27 +0100</pubDate>
-<georss:point>51.464932 -0.120735</georss:point>
-</item>
-<item>
-<title>Pile of dog mess outside the main entrance gate to Albert Barnes House, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364096</link>
-<description>Pile of dog mess outside the main entrance gate to Albert Barnes House. We have had repeated probelms with this, in the Albert Barnes front garden also and on the footpath outside. Residents suspect it&amp;#39;s new tenants who have a large dog as this is a recent problem. This was noticed today&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): New Kent Road, Elephant and Castle, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364096&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Dog Waste Clearance (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364096</guid>
-<pubDate>Mon, 27 Apr 2026 22:31:33 +0100</pubDate>
-<georss:point>51.495026 -0.097058</georss:point>
-</item>
-<item>
-<title>Illegal dangerous parking, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364083</link>
-<description>This vehicle has started parking illegally and dangerously on double yellow lines significantly reducing vision out of Bastion Road into Wickham Lane, SE2.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364083.0.jpeg?7b2b339d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Bastion Road, Abbey Wood&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364083&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Roads/highways</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364083</guid>
-<pubDate>Mon, 27 Apr 2026 22:28:56 +0100</pubDate>
-<georss:point>51.482947 0.103575</georss:point>
-</item>
-<item>
-<title>Graffiti on bus shelter, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364085</link>
-<description>Graffiti needs removing.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): South Eden Park Road, Eden Park, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364085&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Graffiti / Flyposting on stop or shelter (non-offensive)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364085</guid>
-<pubDate>Mon, 27 Apr 2026 22:28:49 +0100</pubDate>
-<georss:point>51.395918 -0.021662</georss:point>
-</item>
-<item>
-<title>Harvington Park Bins Overflowing Not Emptied Since Last Thursday., 27th April</title>
-<link>https://www.fixmystreet.com/report/9364077</link>
-<description>The bins are overflowing and litter is blowing over the park from the bins.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): South Eden Park Road, Eden Park, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364077&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Overflowing litter/dog bin</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364077</guid>
-<pubDate>Mon, 27 Apr 2026 22:28:33 +0100</pubDate>
-<georss:point>51.393725 -0.023763</georss:point>
-</item>
-<item>
-<title>Parked delivery tricycles in bike lane, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364068</link>
-<description>The druid street bike lane is being blocked by tricycles / cargo bikes from a local business , 86 druid street . The arnold estate local residents association chairman has complained to the business but no action has been taken. The photos clearly show one lane completely taken over by the parked bikes and another then being forced to cycle on the wrong side, thus completely blocking the lane for bikes. This happens all the time during businesses hours.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364068.0.jpeg?a7cff530&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 86, Druid Street, Old Kent Road, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364068&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned Bike (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364068</guid>
-<pubDate>Mon, 27 Apr 2026 22:22:06 +0100</pubDate>
-<georss:point>51.499585 -0.075054</georss:point>
-</item>
-<item>
-<title>Kingswood ave near junction with Hopefield, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364071</link>
-<description>Significant pothole sufficient that would dislodge cyclist and cannot be seen at night&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364071.0.jpeg?b045b7c8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kingswood Avenue, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364071&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pothole or other road damage</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364071</guid>
-<pubDate>Mon, 27 Apr 2026 22:21:54 +0100</pubDate>
-<georss:point>51.53624 -0.209024</georss:point>
-</item>
-<item>
-<title>Case closed, no, I don&#39;t think so. Stuff still there, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364069</link>
-<description>Still there&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364069.0.jpeg?08f74016&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Trinity Street, The Borough, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364069&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping - Green Waste (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364069</guid>
-<pubDate>Mon, 27 Apr 2026 22:21:25 +0100</pubDate>
-<georss:point>51.498773 -0.092723</georss:point>
-</item>
-<item>
-<title>Broken guitar, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364054</link>
-<description>Broken guitar&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364054.0.jpeg?50e27fc8&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stansfield Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364054&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364054</guid>
-<pubDate>Mon, 27 Apr 2026 22:18:18 +0100</pubDate>
-<georss:point>51.465686 -0.119079</georss:point>
-</item>
-<item>
-<title>Mattress, tyres and broken porcelain, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364062</link>
-<description>Mattress, tyres and broken porcelain&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364062.0.jpeg?0b7f61fc&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Stansfield Road, Stockwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364062&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364062</guid>
-<pubDate>Mon, 27 Apr 2026 22:18:14 +0100</pubDate>
-<georss:point>51.465732 -0.119021</georss:point>
-</item>
-<item>
-<title>Dumped clothes, 27th April</title>
-<link>https://www.fixmystreet.com/report/9364060</link>
-<description>Someone flytipped bags of clothes near my house. Currently on the pavement between 24 and 26&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9364060.0.jpeg?970ab54d&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Kingscourt Road, Streatham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9364060&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9364060</guid>
-<pubDate>Mon, 27 Apr 2026 22:18:06 +0100</pubDate>
-<georss:point>51.434193 -0.129797</georss:point>
 </item>
 </channel>
 </rss>
