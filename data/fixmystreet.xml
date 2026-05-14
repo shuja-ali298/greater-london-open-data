@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
 >
 
@@ -15,184 +15,184 @@
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
 <item>
-<title>Rolling cage dumped on Great Harry drive, 14th May</title>
-<link>https://www.fixmystreet.com/report/9449481</link>
-<description>A metallic rolling cage was dumped last week between 39 and 41 on Great Harry Drive. Needs to be removed&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449481.0.jpeg?fe8e3a4b&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Great Harry Drive, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449481&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>A Fly-tip Large - More than 10 black bags problem has been found, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450102</link>
+<description>A Fly-tip Large - More than 10 black bags problem has been found by Brent Council&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450102.0.jpeg?c223b026&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Cambridge Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450102&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Large - More than a van load (Estates)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450102</guid>
+<pubDate>Thu, 14 May 2026 08:50:19 +0100</pubDate>
+<georss:point>51.532943 -0.195101</georss:point>
+</item>
+<item>
+<title>Cone dumped here, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450091</link>
+<description>Can council attend and remove&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Little Heath, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450091&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449481</guid>
-<pubDate>Thu, 14 May 2026 05:18:14 +0100</pubDate>
-<georss:point>51.429194 0.059423</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450091</guid>
+<pubDate>Thu, 14 May 2026 08:48:23 +0100</pubDate>
+<georss:point>51.485487 0.049959</georss:point>
 </item>
 <item>
-<title>Outside 153 Granville Road NW6 5AR, 14th May</title>
-<link>https://www.fixmystreet.com/report/9449441</link>
-<description>This has been Reported about 4 Times. No one is coming to collect them. It’s Quite FRUSTRATING.&amp;#10;&amp;#10;It’s a Collection of Furniture that NEEDS Discarding ASAP.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449441.0.jpeg?25ca5001&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Granville Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449441&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Large - More than a van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449441</guid>
-<pubDate>Thu, 14 May 2026 04:15:21 +0100</pubDate>
-<georss:point>51.533039 -0.194837</georss:point>
+<title>A Fly-tip Medium - 4 to 9 black bags problem has been found, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450089</link>
+<description>A Fly-tip Medium - 4 to 9 black bags problem has been found by Brent Council&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450089.0.jpeg?fb145063&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Cambridge Road, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450089&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tip Medium - Up to medium size van load (Estates)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450089</guid>
+<pubDate>Thu, 14 May 2026 08:47:49 +0100</pubDate>
+<georss:point>51.532943 -0.195101</georss:point>
 </item>
 <item>
-<title>Unwanted Furniture Dumped on Pavement, 14th May</title>
-<link>https://www.fixmystreet.com/report/9448911</link>
-<description>A large(ish) item of unwanted furniture has been left dumped on the pavement outside number 139. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9448911.0.jpeg?1b7ef1d5&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9448911&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Shared bin here tagged, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450088</link>
+<description>Can you attend and clean, council property as its doesn&amp;#39;t belong to a single person more household&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Erwood Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450088&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450088</guid>
+<pubDate>Thu, 14 May 2026 08:47:46 +0100</pubDate>
+<georss:point>51.485718 0.049492</georss:point>
+</item>
+<item>
+<title>Dead fox by street bin by Christchurch priory, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450074</link>
+<description>Dead fow by street bin&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Eltham High Street, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450074&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Dead animals</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450074</guid>
+<pubDate>Thu, 14 May 2026 08:44:53 +0100</pubDate>
+<georss:point>51.450962 0.060301</georss:point>
+</item>
+<item>
+<title>Several black bags plus 2 tires, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450076</link>
+<description>See above can you attend and remove&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charlton Road, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450076&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9448911</guid>
-<pubDate>Thu, 14 May 2026 00:00:01 +0100</pubDate>
-<georss:point>51.484966 0.083698</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450076</guid>
+<pubDate>Thu, 14 May 2026 08:44:45 +0100</pubDate>
+<georss:point>51.480946 0.035937</georss:point>
 </item>
 <item>
-<title>Unwanted Sofa Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9448939</link>
-<description>An unwanted sofa has been left dumped on the pavement outside number 114. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9448939.0.jpeg?e114d3be&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brewery Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9448939&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Graffiti sprayed parking signage - please clean, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450067</link>
+<description>3 locations. 15 Fielding Street LP04 (see map attached) and first 2 bay signs on right after entering from Walworth Road. Graffiti sprayed parking signage - please clean.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450067.0.jpeg?16f8e7be&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Fielding Street, Walworth, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450067&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450067</guid>
+<pubDate>Thu, 14 May 2026 08:43:25 +0100</pubDate>
+<georss:point>51.485238 -0.095459</georss:point>
+</item>
+<item>
+<title>Huge dumping of waste!, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450054</link>
+<description>Please urgently come and remove a huge amount of rubbish that has been dumped overnight along with this commercials bin which is worsening this behaviour. This corner is an ongoing problem, please consider some street furniture, some additional trees to assist with this. This is now a daily occurrence. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450054.0.jpeg?2db9712e&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cobourg Road, Old Kent Road, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450054&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450054</guid>
+<pubDate>Thu, 14 May 2026 08:41:32 +0100</pubDate>
+<georss:point>51.487261 -0.075829</georss:point>
+</item>
+<item>
+<title>Datchelor Plus Lime free zone, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450052</link>
+<description>User just left their ride on Datchelor Place 8:35am Please remove&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450052.0.jpeg?361b99c4&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 2, Datchelor Place, Camberwell, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450052&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Lime bike or scooter</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450052</guid>
+<pubDate>Thu, 14 May 2026 08:41:28 +0100</pubDate>
+<georss:point>51.473932 -0.088899</georss:point>
+</item>
+<item>
+<title>UKPN equipment left here for months, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450018</link>
+<description>UKPN equipment left here for months&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450018.0.jpeg?c799bb25&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gilmour Close, Enfield&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450018&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Barriers, equipment or materials left on the highway</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450018</guid>
+<pubDate>Thu, 14 May 2026 08:40:35 +0100</pubDate>
+<georss:point>51.682784 -0.058996</georss:point>
+</item>
+<item>
+<title>Black mercedes WL06 AHY, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450035</link>
+<description>Car has not moved in months. Flat tyres, windows open. Rubbish inside, left in disrepair.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Venture Close, Albany Park, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450035&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned and untaxed vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450035</guid>
+<pubDate>Thu, 14 May 2026 08:38:49 +0100</pubDate>
+<georss:point>51.445095 0.130699</georss:point>
+</item>
+<item>
+<title>Sofa left on street, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450029</link>
+<description>Sofa fly tipped on street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450029.0.jpeg?2f01e478&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gloucester Drive, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450029&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450029</guid>
+<pubDate>Thu, 14 May 2026 08:36:46 +0100</pubDate>
+<georss:point>51.565698 -0.101005</georss:point>
+</item>
+<item>
+<title>Dumped fridge, 14th May</title>
+<link>https://www.fixmystreet.com/report/9450016</link>
+<description>Near 5 Katherine gardens&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9450016.0.jpeg?aa8a61eb&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Katherine Gardens, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9450016&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9448939</guid>
-<pubDate>Wed, 13 May 2026 23:59:56 +0100</pubDate>
-<georss:point>51.485259 0.086029</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9450016</guid>
+<pubDate>Thu, 14 May 2026 08:35:17 +0100</pubDate>
+<georss:point>51.456449 0.039179</georss:point>
 </item>
 <item>
-<title>Large Unwanted Fridge-Freezer Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449041</link>
-<description>A large unwanted fridge-freezer has been left dumped on the pavement outside number 116. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449041.0.jpeg?518d5509&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Brewery Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449041&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<title>Large Cardboard Tube Dumped, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449992</link>
+<description>A long cardboard tube has been dumped behind my bins&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Burwash Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449992&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
 <category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449041</guid>
-<pubDate>Wed, 13 May 2026 23:59:52 +0100</pubDate>
-<georss:point>51.48524 0.086103</georss:point>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449992</guid>
+<pubDate>Thu, 14 May 2026 08:32:36 +0100</pubDate>
+<georss:point>51.484587 0.080362</georss:point>
 </item>
 <item>
-<title>Broken Fridge Trays Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449059</link>
-<description>Several broken fridge trays have been left dumped on the pavement outside number 67 / 69. Can the local team please remove them. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449059.0.jpeg?405a6c49&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449059&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449059</guid>
-<pubDate>Wed, 13 May 2026 23:59:45 +0100</pubDate>
-<georss:point>51.486841 0.084516</georss:point>
+<title>Vehicle traffic light signal knocked out of place, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449954</link>
+<description>Vehicle traffic light knocked out of place and facing the pedestrian crossing island - see picture. Also the pedestrian crossing light on the adjacent island (facing the building with the black hoardings) is also knocked slightly off centre. This keeps happening here, the crossing lights need setting back from the road..&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449954.0.jpeg?8e4e21a0&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 262 - 274, Lewisham High Street, Hither Green, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449954&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Safety concern (traffic or pedestrian)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449954</guid>
+<pubDate>Thu, 14 May 2026 08:28:48 +0100</pubDate>
+<georss:point>51.457734 -0.01327</georss:point>
 </item>
 <item>
-<title>Unwanted Carpet and Bags of Rubbish Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449072</link>
-<description>A length of unwanted carpet and bags of rubbish have been left dumped on the pavement outside number 43. Can the local team please clear them away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449072.0.jpeg?9013bf3e&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449072&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449072</guid>
-<pubDate>Wed, 13 May 2026 23:59:40 +0100</pubDate>
-<georss:point>51.488051 0.085039</georss:point>
+<title>Tagging on bus shelter outside secondary school, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449948</link>
+<description>Tagging on bus shelter outside Royal Trust School.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449948.0.jpeg?9f430c1a&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Woolwich Road, Charlton Riverside, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449948&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Graffiti / Flyposting on stop or shelter (non-offensive)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449948</guid>
+<pubDate>Thu, 14 May 2026 08:27:58 +0100</pubDate>
+<georss:point>51.491422 0.042267</georss:point>
 </item>
 <item>
-<title>Unwanted Suitcase Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449090</link>
-<description>An unwanted suitcase has been left dumped on the pavement outside number 25. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449090.0.jpeg?9616d1b8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449090&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449090</guid>
-<pubDate>Wed, 13 May 2026 23:59:35 +0100</pubDate>
-<georss:point>51.488495 0.085236</georss:point>
+<title>Fox cub head, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449932</link>
+<description>I found this fox cub head on the street of Plover Way adjacent to Onega Gate this morning. I’m not sure how long it has been there, but wish if it can be removed.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449932.0.jpeg?c681d898&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Plover Way, Rotherhithe, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449932&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Clinical Waste - Dead Animal (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449932</guid>
+<pubDate>Thu, 14 May 2026 08:24:59 +0100</pubDate>
+<georss:point>51.495964 -0.038926</georss:point>
 </item>
 <item>
-<title>Broken Table Dumped on Pavement, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449095</link>
-<description>A broken table has been left dumped on the pavement outside number 15. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449095.0.jpeg?2468dc8a&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449095&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449095</guid>
-<pubDate>Wed, 13 May 2026 23:59:30 +0100</pubDate>
-<georss:point>51.488724 0.085336</georss:point>
+<title>Electrical cupboard door open, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449931</link>
+<description>Electrical cupboard door wide open on Culford grove&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449931.0.jpeg?311c8a71&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Culford Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449931&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Telecoms Cabinet</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449931</guid>
+<pubDate>Thu, 14 May 2026 08:24:56 +0100</pubDate>
+<georss:point>51.544175 -0.081449</georss:point>
 </item>
 <item>
-<title>Access Panel from Lamppost Removed Exposing Electrical Components, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449301</link>
-<description>The access panel for the lamppost has been removed, exposing the electrical components. Can it please be fixed. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449301.0.jpeg?762e599b&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Southport Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449301&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Street lighting</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449301</guid>
-<pubDate>Wed, 13 May 2026 23:59:25 +0100</pubDate>
-<georss:point>51.488222 0.083459</georss:point>
+<title>Blocked road and garage, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449924</link>
+<description>Blocked garages Blocked roads Hazard&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449924.0.jpeg?19110159&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 14, Courtleet Drive, Barnehurst, Erith, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449924&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned and untaxed vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449924</guid>
+<pubDate>Thu, 14 May 2026 08:23:23 +0100</pubDate>
+<georss:point>51.470332 0.157881</georss:point>
 </item>
 <item>
-<title>Large Box of Rubbish Dumped on Path, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449313</link>
-<description>A large box of rubbish has been left dumped on the path. Can the local team please remove it. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449313.0.jpeg?0da41cd7&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Elmley Street, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449313&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449313</guid>
-<pubDate>Wed, 13 May 2026 23:59:18 +0100</pubDate>
-<georss:point>51.488726 0.082868</georss:point>
-</item>
-<item>
-<title>Large Amount of Rubbish Dumped on Turfed Area, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449318</link>
-<description>A large amount of rubbish has been left dumped on the turfed area. Can the local team please clear it away. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449318.0.jpeg?be873bc0&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Elmley Street, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449318&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449318</guid>
-<pubDate>Wed, 13 May 2026 23:59:12 +0100</pubDate>
-<georss:point>51.487982 0.082658</georss:point>
-</item>
-<item>
-<title>Broken Furniture and Bags of Rubbish Dumped on Path, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449322</link>
-<description>Broken furniture and bags of rubbish have been left dumped on the path. Can the local team please remove them. Thank you.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449322.0.jpeg?b00ebef9&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Robert Street, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449322&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449322</guid>
-<pubDate>Wed, 13 May 2026 23:59:06 +0100</pubDate>
-<georss:point>51.486977 0.080607</georss:point>
-</item>
-<item>
-<title>Overcrowded Zebra crossing, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449336</link>
-<description>The zebra crossing here is unsuitable for the current foot traffic levels - drivers are often stuck for minutes at a time without a gap, sometimes feeling the need to drive onto the crossing while pedestrians are still crossing in order to make progress - especially around 9am on weekdays. A pelican crossing would be much more suitable.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 21-24, Chiswell Street, Finsbury, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449336&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Roads/highways</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449336</guid>
-<pubDate>Wed, 13 May 2026 23:40:55 +0100</pubDate>
-<georss:point>51.520736 -0.089824</georss:point>
-</item>
-<item>
-<title>Doesn&#39;t really look like its sorted?, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449328</link>
-<description>Absolute shambles - please clean up?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449328.0.jpeg?9c398fd9&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Howard Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449328&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Excessive Litter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449328</guid>
-<pubDate>Wed, 13 May 2026 23:33:27 +0100</pubDate>
-<georss:point>51.553381 -0.083706</georss:point>
-</item>
-<item>
-<title>Abandoned untaxed and no parking permit, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449311</link>
-<description>White Tipper truck on Mauritius Road SE10. Think abandoned as has a flat tyre. Rubbish/waste (not sure if safe) in the back (not secured or covered) blowing round. Duration 2 months.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Mauritius Road, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449311&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Abandoned vehicles</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449311</guid>
-<pubDate>Wed, 13 May 2026 23:20:52 +0100</pubDate>
-<georss:point>51.489212 0.008061</georss:point>
-</item>
-<item>
-<title>Abandoned bike on Cowper Street, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449310</link>
-<description>Abandoned bike that hasn’t been touched in a while opposite 28 Cowper Street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449310.0.jpeg?66af9119&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 32-37, Cowper Street, Finsbury, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449310&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449310</guid>
-<pubDate>Wed, 13 May 2026 23:20:17 +0100</pubDate>
-<georss:point>51.525426 -0.085625</georss:point>
-</item>
-<item>
-<title>Outside 199 (I think but could be 201), 13th May</title>
-<link>https://www.fixmystreet.com/report/9449138</link>
-<description>Mattress&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Willesden Lane, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449138&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Medium - Up to medium size van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449138</guid>
-<pubDate>Wed, 13 May 2026 23:03:53 +0100</pubDate>
-<georss:point>51.54503 -0.213713</georss:point>
-</item>
-<item>
-<title>Faded double yellow lines on the corner of Glendale Mews with Westgate Road, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449120</link>
-<description>Double yellow lines faded such that they are ignored.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Glendale Mews, Beckenham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449120&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Marking</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449120</guid>
-<pubDate>Wed, 13 May 2026 23:02:24 +0100</pubDate>
-<georss:point>51.408091 -0.01717</georss:point>
-</item>
-<item>
-<title>Street light not working, 13th May</title>
-<link>https://www.fixmystreet.com/report/9449100</link>
-<description>Street light not working in a very dark, bushy area with poor pavement likely to cause a fall or be dangerous&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Appledore Crescent, Longlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449100&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Lamp post</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9449100</guid>
-<pubDate>Wed, 13 May 2026 22:59:09 +0100</pubDate>
-<georss:point>51.428519 0.090489</georss:point>
+<title>Lots of litter on the street, 14th May</title>
+<link>https://www.fixmystreet.com/report/9449915</link>
+<description>Please sweep&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9449915.0.jpeg?560ffb4a&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Kilburn Lane, North Kensington, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9449915&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street cleaning - Street needs sweeping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9449915</guid>
+<pubDate>Thu, 14 May 2026 08:20:49 +0100</pubDate>
+<georss:point>51.532538 -0.209272</georss:point>
 </item>
 </channel>
 </rss>
