@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,24 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Disintegrating wood, 3rd August</title>
+<link>https://www.fixmystreet.com/report/9887114</link>
+<description>Disintegrating wood, disposed of incorrectly&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9887114.0.jpeg?50b7e83d&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Griffin Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9887114&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9887114</guid>
+<pubDate>Mon, 03 Aug 2026 00:52:50 +0100</pubDate>
+<georss:point>51.485271 0.083683</georss:point>
+</item>
+<item>
+<title>Furniture / Rubbish dumped on street corner, 3rd August</title>
+<link>https://www.fixmystreet.com/report/9887109</link>
+<description>Rubbish has been dumped on the corner of Firsby/ Braydon Road. In addition, the pavement and road on Firsby Road have not been cleaned for some time and are not maintained as regularly as they should be. Please could they be cleaned as soon as possible.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9887109.0.jpeg?97bc26ca&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Braydon Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9887109&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9887109</guid>
+<pubDate>Mon, 03 Aug 2026 00:43:07 +0100</pubDate>
+<georss:point>51.570314 -0.067469</georss:point>
+</item>
 <item>
 <title>Leysdown House Wheelie Bins need to be removed., 2nd August</title>
 <link>https://www.fixmystreet.com/report/9887042</link>
@@ -175,24 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9886979</guid>
 <pubDate>Sun, 02 Aug 2026 23:02:19 +0100</pubDate>
 <georss:point>51.470649 -0.113028</georss:point>
-</item>
-<item>
-<title>Rubbish dumped outside 156 Herbert Road on public pavement, 2nd August</title>
-<link>https://www.fixmystreet.com/report/9886980</link>
-<description>Photo taken 2nd August 2026&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9886980.0.jpeg?ec1ded19&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Paget Rise, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9886980&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9886980</guid>
-<pubDate>Sun, 02 Aug 2026 23:02:01 +0100</pubDate>
-<georss:point>51.477678 0.065226</georss:point>
-</item>
-<item>
-<title>Rubbish dumped outside 154 Herbert Road on public pavement, 2nd August</title>
-<link>https://www.fixmystreet.com/report/9886975</link>
-<description>Photo taken 2nd August 2026&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9886975.0.jpeg?2f6fecb8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Herbert Road, Woolwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9886975&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9886975</guid>
-<pubDate>Sun, 02 Aug 2026 23:00:18 +0100</pubDate>
-<georss:point>51.477735 0.065322</georss:point>
 </item>
 </channel>
 </rss>
