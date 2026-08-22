@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>29 Shootup Hill, 22nd August</title>
+<link>https://www.fixmystreet.com/report/9985717</link>
+<description>These barriers and rubble have been here for months.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9985717.0.jpeg?49cf0f99&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Shoot-Up Hill, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9985717&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Obstruction - Builders materials</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9985717</guid>
+<pubDate>Sat, 22 Aug 2026 04:04:59 +0100</pubDate>
+<georss:point>51.549235 -0.206182</georss:point>
+</item>
 <item>
 <title>Ref 9970199_Fire Safety Hazard by occupant of 78A Brooke Road.....combustible material in the common hallway of 78 Brooke Road......combustible items are still in the hallway....FixMyStreet Hackney Council have prematurely closed Trouble Ticket Ref: 996392, 22nd August</title>
 <link>https://www.fixmystreet.com/report/9985711</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9985369</guid>
 <pubDate>Fri, 21 Aug 2026 20:48:27 +0100</pubDate>
 <georss:point>51.409445 -0.043391</georss:point>
-</item>
-<item>
-<title>Litter Spillage Evergreen Park, 21st August</title>
-<link>https://www.fixmystreet.com/report/9985352</link>
-<description>I recently visited Evergreen Square and noticed that there is a spillage in the park.&amp;#10;&amp;#10;Could you please look into this and arrange for it to be cleared up?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9985352.0.jpeg?8c8f1a6c&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Evergreen Square, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9985352&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Excessive Litter</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9985352</guid>
-<pubDate>Fri, 21 Aug 2026 20:36:49 +0100</pubDate>
-<georss:point>51.541723 -0.072968</georss:point>
 </item>
 </channel>
 </rss>
