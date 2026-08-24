@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,60 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Scumbags, 25th August</title>
+<link>https://www.fixmystreet.com/report/9997687</link>
+<description>Please have this removed ASAP as it’s blocking the pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997687.0.jpeg?fbf1aaf6&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Charlton Road, Edmonton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997687&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly-tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997687</guid>
+<pubDate>Tue, 25 Aug 2026 00:29:14 +0100</pubDate>
+<georss:point>51.630981 -0.042678</georss:point>
+</item>
+<item>
+<title>Abandoned vehicle on the road, 25th August</title>
+<link>https://www.fixmystreet.com/report/9997685</link>
+<description>This vehicle has been left here for several months without being moved. The windows are broken/open and the vehicle appears to have been abandoned. It is causing concern and could be a safety/security risk. Please investigate and arrange for it to be remov&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997685.0.jpeg?8cbddc40&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Leadale Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997685&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned Vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997685</guid>
+<pubDate>Tue, 25 Aug 2026 00:24:04 +0100</pubDate>
+<georss:point>51.575928 -0.064066</georss:point>
+</item>
+<item>
+<title>Faded Stopline, 25th August</title>
+<link>https://www.fixmystreet.com/report/9997672</link>
+<description>Stop line is faded&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997672.0.jpeg?06a0f27b&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Mollison Avenue, Enfield&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997672&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Road markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997672</guid>
+<pubDate>Tue, 25 Aug 2026 00:03:49 +0100</pubDate>
+<georss:point>51.657534 -0.029774</georss:point>
+</item>
+<item>
+<title>Very broken up and uneven pathing slabs, 24th August</title>
+<link>https://www.fixmystreet.com/report/9997661</link>
+<description>STILL NOT FIXED - Very broken up and uneven pathing slabs. Outside 25 Thaxted Road. This has been reported twice and closed without even being looked at. The issue is getting worse and there has already been an accident witnessed. In bad weather the slabs also start flout and become even more of a hazard. This needs to be resolved ASAP. First reported in January 2026 and nothing has yet been done.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997661.0.jpeg?bdb15359&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Thaxted Road, New Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997661&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavements/Footpaths Repairs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997661</guid>
+<pubDate>Mon, 24 Aug 2026 23:51:46 +0100</pubDate>
+<georss:point>51.43317 0.072502</georss:point>
+</item>
+<item>
+<title>Foundation damaged due to pothole, 24th August</title>
+<link>https://www.fixmystreet.com/report/9997660</link>
+<description>I posted this on the 30th July, 3rd Aug and 5th Aug but all have been deleted by the council and sent me a confirmation saying the issue has been fixed, which is completely untrue.&amp;#10;&amp;#10;Anyway, I will keep reposting this until the work actually begins.&amp;#10;&amp;#10;Someone reported this pothole back in March, yet we are now approaching August and the Council has still done absolutely nothing to repair it. This is extremely disappointing and certainly gives residents reason to reconsider their support at the next local election. Since March, I have noticed that my house shakes significantly more every time buses drive through the pothole. I am becoming increasingly concerned that the continued deterioration of the road could eventually cause damage to nearby properties. Could someone please explain why no action has been taken despite the issue being reported several months ago? Are you waiting until the road collapses into a sinkhole or until properties are damaged before carrying out&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 97, Halfway Street, Longlands, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997660&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Damaged road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997660</guid>
+<pubDate>Mon, 24 Aug 2026 23:48:37 +0100</pubDate>
+<georss:point>51.438083 0.095075</georss:point>
+</item>
+<item>
+<title>There’s no priority road markings, 24th August</title>
+<link>https://www.fixmystreet.com/report/9997659</link>
+<description>The give way lines are completely faded, this is extremely dangerous and can cause a serious collision.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Castlewood Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997659&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Non-Parking related road markings</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9997659</guid>
+<pubDate>Mon, 24 Aug 2026 23:47:00 +0100</pubDate>
+<georss:point>51.574448 -0.064316</georss:point>
+</item>
 <item>
 <title>This car is parked on the pavement causing an obstruction, 24th August</title>
 <link>https://www.fixmystreet.com/report/9997633</link>
@@ -139,60 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9997540</guid>
 <pubDate>Mon, 24 Aug 2026 22:55:36 +0100</pubDate>
 <georss:point>51.402404 0.014972</georss:point>
-</item>
-<item>
-<title>Christchurch Ave near Willesden Lane, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997535</link>
-<description>Dumped sofa&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997535.0.jpeg?343e8b09&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Willesden Lane, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997535&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Large - More than a van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997535</guid>
-<pubDate>Mon, 24 Aug 2026 22:54:05 +0100</pubDate>
-<georss:point>51.543571 -0.210186</georss:point>
-</item>
-<item>
-<title>Walsingham Linear Open Space, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997517</link>
-<description>I would like to raise a concern about the facilities in our local park.&amp;#10;&amp;#10;There is a basketball court in the park, but there are no swings or other play equipment for children. There are also no benches where people can sit and rest while enjoying a walk in the park.&amp;#10;&amp;#10;I would kindly ask the council to consider adding some children’s play equipment and benches to make the park more welcoming and suitable for families and local residents.&amp;#10;&amp;#10;Thank you for considering this request.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Athelstan Way, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997517&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Request for Park Infrastructure</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997517</guid>
-<pubDate>Mon, 24 Aug 2026 22:43:11 +0100</pubDate>
-<georss:point>51.405875 0.103051</georss:point>
-</item>
-<item>
-<title>Locals that charge residents to remove rubbish and fly tip one road away!, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997505</link>
-<description>It’s been happening for over a year. As soon as the council remove it, it’s full again within days. Big bulky items. A two minute walk from bin rooms!&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997505.0.jpeg?25203706&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 88, Wotton Green, St Mary Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997505&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytip</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997505</guid>
-<pubDate>Mon, 24 Aug 2026 22:41:04 +0100</pubDate>
-<georss:point>51.392977 0.12455</georss:point>
-</item>
-<item>
-<title>Broken glass and rubbish at sport field in Walsingham Linear Open Space, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997508</link>
-<description>I would like to report the poor and potentially dangerous condition of the asphalt basketball court.&amp;#10;&amp;#10;There is a lot of small broken glass on the court, which appears not to have been swept for a long time. Children use this area to play basketball, football and ride scooters, so the broken glass poses a serious risk of injury.&amp;#10;&amp;#10;There is also a significant amount of rubbish and paper under the fence and in the bushes around the site.&amp;#10;&amp;#10;Could you please arrange for the area to be cleaned and the broken glass and rubbish to be removed?&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Athelstan Way, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997508&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Litter/Leaves</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997508</guid>
-<pubDate>Mon, 24 Aug 2026 22:39:44 +0100</pubDate>
-<georss:point>51.405875 0.103051</georss:point>
-</item>
-<item>
-<title>Narrow road for cyclists AND HGVs, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997504</link>
-<description>Leonard Street is already a very narrow one-way road, with a cycle lane on one side and an e-bike parking bay on the other. The road is also frequently used by HGVs and delivery vans, which can leave very little space for cyclists to pass safely. As a result, cyclists are sometimes forced onto the pavement to get around larger vehicles, creating additional risk for pedestrians. It would be worth reviewing whether this section of Leonard Street could be made cycle-only, or whether access for larger vehicles could be restricted. Other potential improvements could include: Restricting HGV access where alternative routes are available Adding clearer segregation between the cycle lane and vehicle traffic Reviewing whether the current one-way layout is suitable for the volume of cycle traffic The current layout feels too constrained for the mix of cyclists, pedestrians, parked e-bikes and larger delivery vehicles using the street.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 24, Leonard Street, Finsbury, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997504&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Pavements/footpaths</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997504</guid>
-<pubDate>Mon, 24 Aug 2026 22:38:03 +0100</pubDate>
-<georss:point>51.524585 -0.086433</georss:point>
-</item>
-<item>
-<title>Unclear pavement markings for bikes and pedestrians, 24th August</title>
-<link>https://www.fixmystreet.com/report/9997483</link>
-<description>The road and pavement markings at the crossing between Featherstone Street and Leonard Street are unclear. Cyclists and pedestrians are required to share a narrow crossing space, but the lack of clear markings makes it difficult to understand how the space should be used. This is leading to overcrowding and potentially unsafe interactions between cyclists and pedestrians travelling in both directions. Clearer markings and separation would help make the crossing safer and easier to navigate.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9997483.0.jpeg?b90af6ce&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 73, City Road, Islington, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9997483&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road traffic signs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9997483</guid>
-<pubDate>Mon, 24 Aug 2026 22:30:35 +0100</pubDate>
-<georss:point>51.524607 -0.087411</georss:point>
 </item>
 </channel>
 </rss>
