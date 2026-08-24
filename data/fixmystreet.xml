@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:georss="http://www.georss.org/georss"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Raw meat on the pavement, 24th August</title>
+<link>https://www.fixmystreet.com/report/9991792</link>
+<description>Every night, someone leaves chunks of raw meat under a tree at the junction of Southwold Road and Mundford Road. This is attracting pests, including flies, foxes, seagulls, mice, and rats. It’s happening every single night.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9991792.0.jpeg?f3176ed8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Lowestoft Close, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9991792&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/9991792</guid>
+<pubDate>Mon, 24 Aug 2026 01:10:27 +0100</pubDate>
+<georss:point>51.562941 -0.051331</georss:point>
+</item>
 <item>
 <title>Furniture left on Marine Street, 24th August</title>
 <link>https://www.fixmystreet.com/report/9991372</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/9991716</guid>
 <pubDate>Sun, 23 Aug 2026 23:13:12 +0100</pubDate>
 <georss:point>51.40662 -0.00947</georss:point>
-</item>
-<item>
-<title>North end Aldershot Road, 23rd August</title>
-<link>https://www.fixmystreet.com/report/9991697</link>
-<description>Boxed etc&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/9991697.0.jpeg?8c054bf2&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Willesden Lane, Kilburn, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/9991697&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-tip Medium - Up to medium size van load</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/9991697</guid>
-<pubDate>Sun, 23 Aug 2026 22:47:12 +0100</pubDate>
-<georss:point>51.541053 -0.199992</georss:point>
 </item>
 </channel>
 </rss>
