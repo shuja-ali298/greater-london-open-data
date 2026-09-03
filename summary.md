@@ -1,14 +1,14 @@
 # Crime Data Summary
 
-**Date:** 2026-06
+**Date:** 2026-07
 
-- Total crimes: 925
+- Total crimes: 954
 
 ## Top 5 categories
 ```
-    305 violent-crime
-    192 anti-social-behaviour
-     83 shoplifting
-     64 vehicle-crime
-     64 public-order
+    363 violent-crime
+    222 anti-social-behaviour
+     73 other-theft
+     60 vehicle-crime
+     49 shoplifting
 ```
