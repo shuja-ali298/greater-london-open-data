@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
- xmlns:atom="http://www.w3.org/2005/Atom"
 >
 
 <channel>
@@ -14,6 +14,132 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Broken kerb, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218526</link>
+<description>Badly broken kerb report a month ago and still not repaired. It&amp;#39;s on the corner near to house number 53 gallon close&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218526.0.jpeg?4a383c31&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gallon Close, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218526&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Pavements/Footpaths Repairs</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218526</guid>
+<pubDate>Sat, 10 Oct 2026 07:54:33 +0100</pubDate>
+<georss:point>51.4882 0.035954</georss:point>
+</item>
+<item>
+<title>Cardboard box and litter dumped on pavement, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218520</link>
+<description>A white cardboard box has been left on the pavement against the wall, with a plastic bag and other litter on the pavement and along the kerb nearby.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218520.0.jpeg?1299b8a1&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Colenso Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218520&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping on Street</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218520</guid>
+<pubDate>Sat, 10 Oct 2026 07:51:59 +0100</pubDate>
+<georss:point>51.556563 -0.048074</georss:point>
+</item>
+<item>
+<title>Grounds maintenance, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218517</link>
+<description>Reported a month ago the brushes of the close need trimming before the winter and still not done&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218517.0.jpeg?a6b96ab7&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gallon Close, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218517&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Parks/landscapes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218517</guid>
+<pubDate>Sat, 10 Oct 2026 07:51:21 +0100</pubDate>
+<georss:point>51.488154 0.035876</georss:point>
+</item>
+<item>
+<title>Abandonned bikes, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218501</link>
+<description>Old bikes attached to the bike ring. I have been living there for more than 5 years and they never moved. they congest the pavement and trap rubbish under their wheels. flat tyres, rusty wheels, unusable saddles, it should be enough to have them remove.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218501.0.jpeg?894f43e2&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Mountgrove Road, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218501&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned push bike/bike frame</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218501</guid>
+<pubDate>Sat, 10 Oct 2026 07:42:41 +0100</pubDate>
+<georss:point>51.561158 -0.096806</georss:point>
+</item>
+<item>
+<title>Flying tipping by furniture shop, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218489</link>
+<description>The furniture shop on corner are regularly leaving unwanted items in the parking bays on the street. Again this morning there&amp;#39;s a fridge and part of a sofa.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218489.0.jpeg?38e043d8&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Plumstead Common Road, Plumstead&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218489&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218489</guid>
+<pubDate>Sat, 10 Oct 2026 07:32:44 +0100</pubDate>
+<georss:point>51.482352 0.069907</georss:point>
+</item>
+<item>
+<title>Outside number 3 to 5 Betterton Street, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218473</link>
+<description>Resident permit parking sign completely broken off pavement&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218473.0.jpeg?0500c903&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 3, Betterton Street, Bloomsbury, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218473&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Damaged non-illuminated road sign</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218473</guid>
+<pubDate>Sat, 10 Oct 2026 07:20:12 +0100</pubDate>
+<georss:point>51.515196 -0.123402</georss:point>
+</item>
+<item>
+<title>Flytip, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218468</link>
+<description>Why mark as fixed when the items haven&amp;#39;t been fixed !?&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218468.0.jpeg?311823b5&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Gallon Close, Charlton&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218468&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218468</guid>
+<pubDate>Sat, 10 Oct 2026 07:15:20 +0100</pubDate>
+<georss:point>51.488153 0.035977</georss:point>
+</item>
+<item>
+<title>Has been reported before, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218463</link>
+<description>These large potholes have been here nearly 2 years since I moved in never been looked at before the abandoned vehicles have been here as well&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Erith Court&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218463&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Abandoned vehicles</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218463</guid>
+<pubDate>Sat, 10 Oct 2026 07:14:54 +0100</pubDate>
+<georss:point>51.486901 0.23395</georss:point>
+</item>
+<item>
+<title>Mattress blocking path, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218445</link>
+<description>Been outside for a week, blocks pavement for wheel chair users. Can&amp;#39;t be a paid for pickup as they are only meant to be out in the morning.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218445.0.jpeg?e2f0ef55&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Fingal Street, Greenwich&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218445&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Fly Tipping</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218445</guid>
+<pubDate>Sat, 10 Oct 2026 06:28:18 +0100</pubDate>
+<georss:point>51.48783 0.012563</georss:point>
+</item>
+<item>
+<title>Black bags dumped again, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218414</link>
+<description>Beside grit container please remove Thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218414.0.jpeg?0c81f30c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 181, Southwark Park Road, Bermondsey, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218414&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218414</guid>
+<pubDate>Sat, 10 Oct 2026 04:13:18 +0100</pubDate>
+<georss:point>51.49228 -0.065844</georss:point>
+</item>
+<item>
+<title>Please look into this, there are addresses on the letters, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218412</link>
+<description>Remove please. Thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218412.0.jpeg?9a91f437&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 189, Southwark Park Road, Bermondsey, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218412&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218412</guid>
+<pubDate>Sat, 10 Oct 2026 04:08:03 +0100</pubDate>
+<georss:point>51.492316 -0.065642</georss:point>
+</item>
+<item>
+<title>Electric Fan and box containing metal, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218410</link>
+<description>Eside cycle hanger. Please take away. Thank you&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218410.0.jpeg?6702a606&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Strathnairn Street, Bermondsey, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218410&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Flytipping - General (Street)</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218410</guid>
+<pubDate>Sat, 10 Oct 2026 03:56:17 +0100</pubDate>
+<georss:point>51.491207 -0.067377</georss:point>
+</item>
+<item>
+<title>Bench removed, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218408</link>
+<description>There used to be a bench for the community to sit, and people to rest with heavy shopping. It has been removed. Needs replacement.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 77-93, Greville Road, South Hampstead, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218408&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Street Furniture</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218408</guid>
+<pubDate>Sat, 10 Oct 2026 03:36:16 +0100</pubDate>
+<georss:point>51.536659 -0.190019</georss:point>
+</item>
+<item>
+<title>Reckless cyclists hit a child, 10th October</title>
+<link>https://www.fixmystreet.com/report/10218399</link>
+<description>A Child in my care was hit by a cyclist. Cyclists really do not seem to care at all and cycle at excess speed, in a public park where children ( who move impredictably by nature) are presents.&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): London Fields East Side, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218399&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Highways Obstructions</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10218399</guid>
+<pubDate>Sat, 10 Oct 2026 02:09:00 +0100</pubDate>
+<georss:point>51.539838 -0.059655</georss:point>
+</item>
 <item>
 <title>Defunct cash machine, 10th October</title>
 <link>https://www.fixmystreet.com/report/10218396</link>
@@ -67,132 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/10218337</guid>
 <pubDate>Fri, 09 Oct 2026 23:26:41 +0100</pubDate>
 <georss:point>51.547489 -0.075178</georss:point>
-</item>
-<item>
-<title>The street light is off outside 28 The Green, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218277</link>
-<description>The street lamp outside 28 The Green is not working which makes this end of the street really dark and a little dangerous for walking as the sun sets earlier&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 26, The Green, Falconwood, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218277&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Lamp post</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218277</guid>
-<pubDate>Fri, 09 Oct 2026 22:55:13 +0100</pubDate>
-<georss:point>51.457106 0.090608</georss:point>
-</item>
-<item>
-<title>Fly tipping on street, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218269</link>
-<description>Fly tipping household waste on street&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218269.0.jpeg?f754d623&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 68, High Street, Penge, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218269&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytip</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218269</guid>
-<pubDate>Fri, 09 Oct 2026 22:41:45 +0100</pubDate>
-<georss:point>51.416172 -0.055144</georss:point>
-</item>
-<item>
-<title>Parking in a disabled allocated spot, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218224</link>
-<description>This car has parked in a disabled allocated spot by Gilpin House N9&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218224.0.jpeg?05d15948&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Tariff Road, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218224&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Roads/highways</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218224</guid>
-<pubDate>Fri, 09 Oct 2026 22:30:33 +0100</pubDate>
-<georss:point>51.605767 -0.061069</georss:point>
-</item>
-<item>
-<title>Fallen tree, footpath 127, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218253</link>
-<description>This tree has been across the path for over a week. It is close to the entrance to the woods , entering from the footpath down to Bexley Village.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Dartford Road, Coldblow, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218253&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Shrubs and Hedge</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218253</guid>
-<pubDate>Fri, 09 Oct 2026 22:29:54 +0100</pubDate>
-<georss:point>51.436572 0.158693</georss:point>
-</item>
-<item>
-<title>Fridge dumped outside shop by workers, 9th October</title>
-<link>https://www.fixmystreet.com/report/10217707</link>
-<description>The people working on repairing the shop after fire have left the huge old drinks fridge on the pavement outside for the past 3 days with no indication when it will be disposed of properly. Also the sliced off metal shutters have been lying there since the place was damaged 4 months ago. Unacceptable. This should have been dealt with by the council already.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10217707.0.jpeg?25e012e2&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 135, Kirkdale, Forest Hill, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10217707&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly-Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10217707</guid>
-<pubDate>Fri, 09 Oct 2026 22:15:00 +0100</pubDate>
-<georss:point>51.431566 -0.059844</georss:point>
-</item>
-<item>
-<title>Circus Posters on lamppost from Starbucks to the high st, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218237</link>
-<description>The circus have put posters up on a few lamppost from Starbucks up to Orpington High St which need taking down please . It’s free advertising for these companies they put the posters up yet never take them down afterwards. It makes the place look a mess and causes accidents with drivers reading them while driving so not safe .&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cray Avenue, Poverest, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218237&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flyposting</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218237</guid>
-<pubDate>Fri, 09 Oct 2026 22:13:41 +0100</pubDate>
-<georss:point>51.39414 0.11184</georss:point>
-</item>
-<item>
-<title>Pallets and Paint cans by Crete company, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218229</link>
-<description>There are lots of cans of paint and a pallet been left just by the Crete company’ near the fence owned by the gasworks whhch needs moving please&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Sevenoaks Way, St Paul&#39;s Cray, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218229&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytip</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218229</guid>
-<pubDate>Fri, 09 Oct 2026 22:06:20 +0100</pubDate>
-<georss:point>51.396827 0.112556</georss:point>
-</item>
-<item>
-<title>Freestanding atm machine has been vandalised and has been falling apart without repair fir weeks, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218219</link>
-<description>Opposite Sainsbury’s the freestanding atm machine has wires hanging out, doors smashed and hanging open, covered in graffiti&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218219.0.jpeg?d29de01e&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Bowes Road, Southgate&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218219&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Barriers, equipment or materials left on the highway</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218219</guid>
-<pubDate>Fri, 09 Oct 2026 21:55:12 +0100</pubDate>
-<georss:point>51.616224 -0.135721</georss:point>
-</item>
-<item>
-<title>Jocelyn Street Fly Tipping, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218214</link>
-<description>On Jocelyn Road right before it turns behind the Peckham Leisure Center NTUP team spotted fly tipping this needs to be picked up and also rubbish around.&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218214.0.jpeg?8b5f1ea7&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Surrey Canal Walk, Peckham, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218214&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Flytipping - White Goods (Street)</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218214</guid>
-<pubDate>Fri, 09 Oct 2026 21:50:13 +0100</pubDate>
-<georss:point>51.474527 -0.070306</georss:point>
-</item>
-<item>
-<title>Light isn’t working, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218209</link>
-<description>Light isn’t working. It’s very dark walking along that part of the path&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Bevercote Walk, Upper Belvedere, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218209&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Light in park or open space</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218209</guid>
-<pubDate>Fri, 09 Oct 2026 21:48:33 +0100</pubDate>
-<georss:point>51.481224 0.13819</georss:point>
-</item>
-<item>
-<title>Dumped chair, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218208</link>
-<description>Chair dumped corner of Roberts Close just came back from holiday so dint know how long its been there&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218208.0.jpeg?bbf0dc51&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Keightley Drive, Eltham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218208&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Fly Tipping</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218208</guid>
-<pubDate>Fri, 09 Oct 2026 21:46:29 +0100</pubDate>
-<georss:point>51.438241 0.078137</georss:point>
-</item>
-<item>
-<title>Road Safety Report(Southbury Road and Fotherigham Road, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218196</link>
-<description>Dear Enfield Council Highways Department, I am writing to formally report a serious public safety hazard regarding the restricted bus lane on Fotheringham Road, located just off Southbury Road (past the Tesco store) as you drive down from Enfield Town towards Great Cambridge Road. This is the specific restricted section where only the 192 bus is permitted to enter by turning right from the main road. I am a local resident, living on Seaforth Road, just 50 metres away from this restricted road. I am fully aware of the restrictions, I never turn into this street, and I always use the next road, Cecil Road, instead to get to my house. However, on Thursday 8th October, between 9:30 PM and 10:00 PM, during heavy rainfall, the driving conditions at this junction became extremely hazardous and misleading due to the following reasons: 1. As I was driving down Southbury Road, when there is a bus stopped in such a section of the road, it completely blocks the advance warning signs located on the left side of Southbury Road which indicate that private vehicles cannot turn right. With the signage completely hidden, I was forced to make a small bypass to the right to clear the bus, under the impression that the turning right ahead of me was Cecil Road. 2. At the same time, from the oncoming direction (driving up Southbury Road from Great Cambridge Road towards Enfield Town), other buses, lorries, and cars were approaching, and their headlights in the dark and rain created severe visibility issues. 3. I was waiting for the oncoming vehicles to pass before making the right turn. However, at the exact moment they passed, their large physical profile completely blocked the view of the restriction signs located on both the right and left sides at the entrance of Fotheringham Road. As a result, I turned without realising, while driving on Southbury Road, because I thought I was making the turn for Cecil Road (a situation which, from what I have asked, happens to other drivers as well, and as I have personally observed at various other times, other drivers frequently make the exact same mistake). Due to the reflection of the rain on the road surface, the darkness, and the blinding lights on one side, combined with the hidden signs on the other, it is very easy under these conditions for certain drivers to make a wrong decision at that instant. Therefore, despite being completely familiar with the area, I made an unintentional turn. As soon as I entered slightly and realised it was not Cecil Road, I immediately turned on my hazard lights and safely reversed out. I trust that no Penalty Charge Notice will be issued, as the camera footage will verify that I immediately reversed out upon realising the situation. From what I know and from speaking with my neighbours, this problem happens to quite a few drivers. In fact, many drivers (such as visitors or strangers coming to see residents in the neighbourhood who almost never travel on this road) do not even realise their mistake. I kindly request that, if possible, the Council reviews this specific location to see if there is a way to improve the current conditions and visibility, in order to prevent motorists from making this mistake in the first place. Note that in my many years of driving and having spent thousands of hours on the road, either driving or as a passenger on a bus, I very rarely remember observing or encountering a car entering in this manner. However, I have noticed that on this specific road, some people occasionally enter against the restrictions, exactly as happened to me. In fact, when they meet cars coming from the other side, they are alerted that it is a mistake, and they look surprised because they had not realised it at all. Yours faithfully, Kostas Maroulis,&amp;#10;&amp;#10;22B Seaforth Road, 34 Felix House, Enfield EN1 1NT&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Southbury Road, Enfield&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218196&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Illuminated sign or post</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218196</guid>
-<pubDate>Fri, 09 Oct 2026 21:41:50 +0100</pubDate>
-<georss:point>51.65153 -0.071199</georss:point>
-</item>
-<item>
-<title>[Portable loo] on highway without permission, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218161</link>
-<description>This [portable loo] has been placed on highway by owners of number 50 Queens Avenue. There is no evidence they have a license to place it here&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218161.0.jpeg?f0e2096c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Queen&#39;s Avenue, Fallow Corner, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218161&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218161</guid>
-<pubDate>Fri, 09 Oct 2026 21:23:35 +0100</pubDate>
-<georss:point>51.603444 -0.179026</georss:point>
-</item>
-<item>
-<title>[Portable loo] in street, 9th October</title>
-<link>https://www.fixmystreet.com/report/10218173</link>
-<description>This [portable loo] has been placed on highway by owners of number 50 Queens Avenue. There is no evidence they have a license to place it here&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10218173.0.jpeg?f0e2096c&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Queen&#39;s Avenue, Fallow Corner, Greater London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10218173&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Other</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10218173</guid>
-<pubDate>Fri, 09 Oct 2026 21:20:04 +0100</pubDate>
-<georss:point>51.603243 -0.179114</georss:point>
 </item>
 </channel>
 </rss>
