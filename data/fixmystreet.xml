@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.55761,0.073477/20" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>Blocking 🚫 bin removal, 31st October</title>
+<link>https://www.fixmystreet.com/report/10288272</link>
+<description>For the past 1 months this car has been parked on the yellow box obstructing the bin collectors from taking their load. As a result the place has become very dirty&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10288272.0.jpeg?8b659c23&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Cherry Road, Enfield&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10288272&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Car parking</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/10288272</guid>
+<pubDate>Sat, 31 Oct 2026 04:47:10 +0000</pubDate>
+<georss:point>51.667176 -0.04372</georss:point>
+</item>
 <item>
 <title>KFH estate agent double-sided advertisement and pole affixed to highway edge wall in Bromley Rd, Beckenham at the junction with the eastern end of The Knoll crescent road., 30th October</title>
 <link>https://www.fixmystreet.com/report/10310162</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/10309900</guid>
 <pubDate>Fri, 30 Oct 2026 20:58:32 +0000</pubDate>
 <georss:point>51.481558 -0.002112</georss:point>
-</item>
-<item>
-<title>Bike parking sign coming off ground, 30th October</title>
-<link>https://www.fixmystreet.com/report/10309894</link>
-<description>Bike parking sign coming off ground&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/10309894.0.jpeg?751fed04&quot;&gt;&#10;&lt;br&gt;Nearest address to the pin placed on the map (from OS Places API): Alexandra Grove, Hackney, London&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/10309894&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road Signs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/10309894</guid>
-<pubDate>Fri, 30 Oct 2026 20:53:52 +0000</pubDate>
-<georss:point>51.567429 -0.098422</georss:point>
 </item>
 </channel>
 </rss>
